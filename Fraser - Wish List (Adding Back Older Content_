@@ -46,11 +46,18 @@ dimwishlist:item=3830941962&perks=839105230,3142289711,1583705720,4049631843,204
 
 //Noxious Vetiver 
 
-dimwishlist:item=825495813=notes: Will Add More When Released (1 Week After The Act Drops)
+dimwishlist:item=825495813&perks=839105230,3142289711,243981275,3966416502,2041432007=notes: Attrition Orbs + Jolting (LGG Most Popular + Fallout Approved) 
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,3966416502,2041432007=notes: Attrition Orbs + Jolting Feedback (Same Perks, but changed Barrel & Mag and MW)
+dimwishlist:item=825495813&perks=1840239774,3230963543,2726471870,3966416502,2041432007=notes: Thresh + Jolting Feedback (Super Generation) 
+dimwishlist:item=825495813&perks=1840239774,3230963543,691659142,3966416502,2041432007=notes: Pugilist + Jolting Feedback ( Melee Generation aka Coniscration Titan) 
+dimwishlist:item=825495813&perks=1840239774,3230963543,3108830275,3966416502,2041432007=notes: Unrelenting + Jolting Feedback (Most a survival pick but the other three options are better)
 
 //Scavenger's Fate 
 
-dimwishlist:item=2913577176=notes: Will Add More When Relesaed (1 Week After The Act Drops)
+dimwishlist:item=2913577176&perks=1332244541,791862061,3161816588,1194056669,2041432007=notes: Slideshot + Closing Time (LGG Most Popular, PVP roll but there are better rolls) 
+dimwishlist:item=2913577176&perks=1482024992,791862061,3978468247,2048641572,2041432007=notes: Discord + Destabilizing Rounds ( Funny Ammo Regen) 
+dimwishlist:item=2913577176&perks=1482024992,791862061,776531651,2048641572,2041432007=notes: Repulsor Brace + Destabilizing Round 
+dimwishlist:item=2913577176&perks=1332244541,791862061,2579169598,1194056669,2041432007=notes: Lone Wolf + Closing Time (Good guardians first pvp shotty, but there are better shottys) 
 
 //Red Tape 
 
@@ -83,7 +90,13 @@ dimwishlist:item=2130875369&perks=839105230,791862061,3978468247,438098033,34049
 
 //Gridskipper 
 
-dimwishlist:item=3433930495=notes: Will Add When Released (One Week After The Act Drops) 
+//Gridskipper 
+
+dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,2048641572,3404929162=notes: Repulsor Brace + Destabilizing Round (LGG Most Popular) 
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2048641572,3404929162=notes: Demo + Destabilizing Round 
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2109543898,3404929162=notes: Demo + Desperate Measures
+dimwishlist:item=3433930495&perks=839105230,1885400500,2387244414,460017080,3404929162=notes: Zen Moment + Headseeker 
+
 
 //Playlist Weapons
 
