@@ -1,4 +1,4 @@
-//Update 2.1: Revenant Act 2 
+//Update 3.0 : Herussy + Episode 1 & 2 
 
 Revenant Act 1: 
 
@@ -59,16 +59,18 @@ dimwishlist:item=2913577176&perks=1482024992,791862061,3978468247,2048641572,204
 dimwishlist:item=2913577176&perks=1482024992,791862061,776531651,2048641572,2041432007=notes: Repulsor Brace + Destabilizing Round 
 dimwishlist:item=2913577176&perks=1332244541,791862061,2579169598,1194056669,2041432007=notes: Lone Wolf + Closing Time (Good first pvp shotty, but there are better shottys) 
 
-
-
-
 //Red Tape 
 
-dimwishlist:item=3423493037=notes: Will Add More When Relesaed (1 Week After The Act Drops)
+dimwishlist:item=3423493037&perks=839105230,3142289711,1955165503,3038247973,2041432007=notes: RimeStealer + Explosive Payload (LGG Most Popular)
+dimwishlist:item=3423493037&perks=839105230,3142289711,1955165503,124408337,2041432007=notes: Rimestealer + Headstone (Stasis Paring) 
+dimwishlist:item=3423493037&perks=839105230,3142289711,1955165503,124408337,2041432007=notes: 4th Times + AFO (Netural Perks) 
 
 //Heretic's Fervor 
 
-dimwishlist:item=4224667951=notes: Will Add More When Relesaed (1 Week After The Act Drops)
+dimwishlist:item=4224667951&perks=1478423395,2985827016,3300816228,2978966579,2041432007=notes: Auto-Loading + Chill Clip (LGG Most Popular) 
+dimwishlist:item=4224667951&perks=1478423395,2985827016,3300816228,3194351027,2041432007=notes: Auto-Loading + Explosive Light 
+dimwishlist:item=4224667951&perks=1478423395,2985827016,2869569095,1439600632,2041432007=notes: Field Prep + Bipod (Nightfall + Ammo Economy) 
+
 
 //Reprised Seasonal Weapons 
 
@@ -148,11 +150,16 @@ dimwishlist:item=2199554524&perks=839105230,1885400500,1428297954,1015611457,515
 
 //Plug One.1
 
-dimwishlist:item=3293524502=notes: Will Add When Released (Once Nightfall Drop Week Is Over/On)
+dimwishlist:item=3293524502&perks=839105230,689005463,1523832109,1427256713,1281216113=notes: Reconstruction + Reservior Burst (LGG Most Popular) 
+dimwishlist:item=3293524502&perks=839105230,689005463,1523832109,2594592626,1281216113=notes: Reconstruction + Controlled Burst 
+dimwishlist:item=3293524502&perks=839105230,689005463,2579169598,1194056669,1281216113=notes: Lone Wolf + Closing Time (PVP) 
+dimwishlist:item=3293524502&perks=839105230,689005463,2779035018,2173046394,1281216113=notes: Feeding Frenzy + Voltshot 
 
 //Plug One.1 Adept 
 
-dimwishlist:item=3106557243=notes: Will Add When Released (Once Nightfall Drop Week Is Over/On) 
+dimwishlist:item=3106557243&perks=839105230,689005463,1645158859,1194056669,1281216113=notes: Under Pressure + Closing Time (LGG Most Popular)
+
+
 
 
 //Rake Angle 
@@ -195,20 +202,26 @@ dimwishlist:item=2300143112&perks=4090651448,1885400500,247725512,1546637391,298
   
 //Yesterday's Question Adept 
 
-dimwishlist:item=2378785953&perks=4090651448,1885400500,247725512,460017080,2988596335=notes: Rapid Hit + Headseeker 
+dimwishlist:item=2378785953&perks=4090651448,1885400500,247725512,460017080,2988596335=notes: Rapid Hit + Headseeker (LGG Most Popular) 
+dimwishlist:item=303107619&perks=1478423395,3796465595,1134488199,3078487919,2988596335=notes: Dragonfly + Voltshot 
+dimwishlist:item=2378785953&perks=4090651448,1885400500,1354429876,1546637391,2988596335=notes: 4th Times + Vorpal 
+
+
 
 
 
 //Tomorrow's Answer
 
-dimwishlist:item=3009199534&perks=1478423395,2985827016,1134488199,1546637391,29885963=notes: Withering Gaze + Vorpal (Light.gg Most Popular) 
-
-dimwishlist:item=3009199534=notes: Will Add More After More Data 
-
+dimwishlist:item=3009199534&perks=1478423395,2985827016,3987942396,3078487919,2988596335=notes: Envious Arsenal + Bait & Switch (LGG Most Popular) 
+dimwishlist:item=3009199534&perks=1478423395,2985827016,968510818,2396489472,2988596335=notes: Envious Assassin + Chain Reaction (AD Clear Rocket)
+dimwishlist:item=3009199534&perks=1478423395,2985827016,1134488199,3078487919,2988596335=notes: Withering Gaze + Bait & Switch (Debuff Rocket) 
 
 //Tomorrow's Answer Adept
 
-dimwishlist:item=303107619=notes: Will Add More Once More Data Has Been Collected 
+dimwishlist:item=303107619&perks=1478423395,3796465595,3987942396,3078487919,2988596335=notes: Envious Arsenal + Bait & Switch (LGG Most Popular) 
+dimwishlist:item=303107619&perks=1478423395,3796465595,968510818,2396489472,2988596335=notes: Envious Assassin + Chain Reaction (Ad Clear Rocket) 
+dimwishlist:item=303107619&perks=1478423395,3796465595,1134488199,3078487919,2988596335=notes: Withering Gaze + Bait & Switch (Debuff Rocket) 
+
 
 //World Drop 
 
@@ -394,35 +407,6 @@ dimwishlist:item=1845978721&perks=839105230,3142289711,1820235745,4293542123,426
 dimwishlist:item=1845978721&perks=839105230,3142289711,2848615171,4293542123,4264904777=notes: Dragonfly + Incan 
 dimwishlist:item=1845978721&perks=839105230,3142289711,3017780555,4293542123,4264904777=notes: Heal Clip + Incan 
 dimwishlist:item=1845978721&perks=839105230,3142289711,3418782618,4293542123,4264904777=notes: Rewind Rounds + Incan 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //Pale Heart Weapons 
 
