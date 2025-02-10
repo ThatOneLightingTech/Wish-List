@@ -1,4 +1,231 @@
-//Update 3.0 : Herussy + Episode 1 & 2 
+//Update 3.0 : Herussy + Episode 1 & 2 Weapons 
+
+Heresy Act 1: 
+
+120721526 = Runneth Over 
+
+//Adamantite 
+
+dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,2298656195,878237828=notes: Reciprocity + Circle Of Life (LGG Most Popular) 
+dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,960997401,878237828=notes: Reciprocity + Tear (Debuff)
+dimwishlist:item=3229982889&perks=839105230,3142289711,3523296417,243981275,878237828=notes: Demo + Attrition Orbs (Orb Generation) 
+dimwishlist:item=3229982889&perks=839105230,3142289711,3523296417,4104185692,878237828=notes: Demo + Frenzy (Combat Focus) (Only If You Dont Have Better) 
+dimwishlist:item=3229982889&perks=839105230,3142289711,3108830275,4104185692,878237828=notes: Unrelenting + Frenzy (Nether Survival) 
+
+//Adamantite  w/ Runneth Over - 
+
+dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,2298656195,120721526=notes: Reciprocity + Circle Of Life (LGG Most Popular) 
+dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,960997401,120721526=notes: Reciprocity + Tear (Debuff)
+dimwishlist:item=3229982889&perks=839105230,3142289711,3523296417,243981275,120721526=notes: Demo + Attrition Orbs (Orb Generation) 
+dimwishlist:item=3229982889&perks=839105230,3142289711,3523296417,4104185692,120721526=notes: Demo + Frenzy (Combat Focus) (Only If You Dont Have Better) 
+dimwishlist:item=3229982889&perks=839105230,3142289711,3108830275,4104185692,120721526=notes: Unrelenting + Frenzy (Nether Survival) 
+
+
+//Adamantite (Adpet) 
+
+dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,2298656195,878237828=notes: Reciprocity + Circle Of Life (LGG Most Popular) 
+dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,960997401,878237828=notes:  Reciprocity + Tear (Debuff)
+dimwishlist:item=3485029080&perks=839105230,3142289711,3523296417,243981275,878237828=notes:  Demo + Attrition Orbs (Orb Generation) 
+dimwishlist:item=3485029080&perks=839105230,3142289711,3523296417,4104185692,878237828=notes: Demo + Frenzy (Combat Focus) (Only If You Dont Have Better) 
+dimwishlist:item=3485029080&perks=839105230,3142289711,3108830275,4104185692,878237828=notes: Unrelenting + Frenzy (Nether Survival) 
+
+//Adamantite (Adpet) w/ Runneth Over - 
+
+dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,2298656195,120721526=notes: Reciprocity + Circle Of Life (LGG Most Popular) 
+dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,960997401,120721526=notes:  Reciprocity + Tear (Debuff)
+dimwishlist:item=3485029080&perks=839105230,3142289711,3523296417,243981275,120721526=notes:  Demo + Attrition Orbs (Orb Generation) 
+dimwishlist:item=3485029080&perks=839105230,3142289711,3523296417,4104185692,120721526=notes: Demo + Frenzy (Combat Focus) (Only If You Dont Have Better) 
+dimwishlist:item=3485029080&perks=839105230,3142289711,3108830275,4104185692,120721526=notes: Unrelenting + Frenzy (Nether Survival) 
+
+
+//Psychopomp 
+
+dimwishlist:item=4028298892&perks=1478423395,2822142346,2010801679,3218042543,878237828=notes: Ambitious + Rolling Storm (LGG Most Popular) 
+dimwishlist:item=4028298892&perks=1478423395,2822142346,1583705720,3218042543,878237828=notes: SFA + Rolling Strom 
+dimwishlist:item=4028298892&perks=1478423395,2822142346,684456054,3218042543,878237828=notes: Eddy Current + Rolling Storm (Datto Approved Roll) 
+dimwishlist:item=4028298892&perks=1478423395,2822142346,2010801679,3108830275,878237828=notes: Abmitious Assassin + Unrelenting (Nether Survival) 
+
+
+//Psychopomp (Adpet) 
+
+dimwishlist:item=2553380021&perks=1478423395,2822142346,2010801679,3218042543,878237828=notes: Ambitious + Rolling Storm (LGG Most Popular)
+dimwishlist:item=2553380021&perks=1478423395,2822142346,1583705720,3218042543,878237828=notes: SFA + Rolling Storm 
+dimwishlist:item=2553380021&perks=1478423395,2822142346,684456054,3218042543,878237828=notes: Eddy Current + Rolling Storm (Datto Approved Roll) 
+dimwishlist:item=2553380021&perks=1478423395,2822142346,2010801679,3108830275,878237828=notes: Abmitious Assassin + Unrelenting (Nether Survival) 
+
+//Eyes Unvailed 
+
+dimwishlist:item=727781522&perks=839105230,689005463,3643424744,1134488199,878237828=notes: Overflow + Withering Gaze (LGG Most Popular) 
+dimwishlist:item=727781522&perks=839105230,689005463,3400784728,1134488199,878237828=notes: Triple Tap + Withering Gaze 
+dimwishlist:item=727781522&perks=839105230,689005463,3400784728,4104185692,878237828=notes: Triple Tap + Frenzy (Damage Roll) (Datto Recommened) 
+dimwishlist:item=727781522&perks=839105230,2680121939,2010801679,3978468247,878237828=notes: Abmitious Assassin + Discord (Funky Ammo Regen) 
+
+//Eyes Unvailed w/ Runneth Over - 615373993 , 
+
+dimwishlist:item=615373993&perks=839105230,689005463,3643424744,1134488199,120721526=notes: Overflow + Withering Gaze (LGG Most Popular) 
+dimwishlist:item=615373993&perks=839105230,689005463,3400784728,1134488199,120721526=notes: Triple Tap + Withering Gaze 
+dimwishlist:item=615373993&perks=839105230,689005463,3400784728,4104185692,120721526=notes: Triple Tap + Frenzy (Damage Roll) (Datto Recommened) 
+dimwishlist:item=615373993&perks=839105230,2680121939,2010801679,3978468247,120721526=notes: Abmitious Assassin + Discord (Funky Ammo Regen) 
+
+//Eyes Unvailed (Adpet) 
+
+//Eyes Unvailed (Adpet) w/ Runneth Over - 4173311704
+
+//Watchful Eye 
+
+//Watchful Eye w/ Runneth Over 
+
+//Watchful Eye (Adept) 
+
+//Watchful Eye (Adept)  w/ Runneth Over 
+
+//Abyssal Edge 
+
+//Abyssal Edge (Adept) 
+
+//Heresy Act 2 + 3: 
+
+//Anamnesis 
+
+//Anamnesis (Adept) 
+
+//Divison 
+
+//Divison w/ Runneth Over 
+
+//Divison (Adept) 
+
+//Divison (Adept) w/ Runneth Over 
+
+//Refusal of the Call 
+
+//Refusal of the Call (Adept) 
+
+//Adterlight 
+
+//Adterlight w/ Runneth Over 
+
+//Afterlight (Adept) 
+
+//Afterlight (Adept) w/ Runneth Over 
+
+//Mirror Imago 
+
+//Mirror Imago w/ Runneth Over 
+
+//Mirror Imago (Adept) 
+
+//Mirror Imago (Adept) w/ Runneth Over 
+
+//Sundered Doctrine 
+
+//Unloved 
+
+//Unsworn 
+
+//Unvoiced 
+
+//Unworthy 
+
+//Vault Of Glass (Refresh) 
+
+//Fatebringer 
+
+//Fatebringer (Timelost) 
+
+//Found Verdict 
+
+//Found Verdict (Timelost) 
+
+//Hezen Vengance 
+
+//Hezen Vengance (Timelost) 
+
+//Corrective Measures 
+
+//Corrective Measures (Timelost) 
+
+//Praedyth's Revenge 
+
+//Praedyth's Revenge (Timelost)
+
+//Vision of Confluence 
+
+//Vision of Confluence (Timelost) 
+
+//Season Of Arrivals Refresh 
+
+//Cold Denial 
+
+//False Promise 
+
+//Hollow Words 
+
+//Temptation's Hook 
+
+//Whispering Slab
+
+//Strikes,Gambit,Cruicble 
+
+//Joxer's Longsword 
+
+//Cynosure 
+
+//Backfang 
+
+//Nightfalls
+
+//The Palindrome 
+
+//The Palindrome (Adept) 
+
+//Lotus-Eater 
+
+//Lotus-Eater (Adept) 
+
+//Competive
+
+//Redrix's Estoc 
+
+//Trials 
+
+//Exalted Truth 
+
+//Exalted Truth (Adept) 
+
+//Keen Thistle 
+
+//Keen Thistle (Adept) 
+
+//World Drop 
+
+//Boondoggle MK. 55 
+
+//Qua Furor V 
+
+//Cruoris FR4
+
+//Admetus-D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Revenant Act 1: 
 
