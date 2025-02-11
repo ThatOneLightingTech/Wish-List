@@ -2,7 +2,7 @@
 
 Heresy Act 1: 
 
-120721526 = Runneth Over 
+
 
 //Adamantite 
 
@@ -11,6 +11,7 @@ dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,960997401,87823
 dimwishlist:item=3229982889&perks=839105230,3142289711,3523296417,243981275,878237828=notes: Demo + Attrition Orbs (Orb Generation) 
 dimwishlist:item=3229982889&perks=839105230,3142289711,3523296417,4104185692,878237828=notes: Demo + Frenzy (Combat Focus) (Only If You Dont Have Better) 
 dimwishlist:item=3229982889&perks=839105230,3142289711,3108830275,4104185692,878237828=notes: Unrelenting + Frenzy (Nether Survival) 
+
 
 //Adamantite  w/ Runneth Over - 
 
@@ -28,6 +29,7 @@ dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,960997401,87823
 dimwishlist:item=3485029080&perks=839105230,3142289711,3523296417,243981275,878237828=notes:  Demo + Attrition Orbs (Orb Generation) 
 dimwishlist:item=3485029080&perks=839105230,3142289711,3523296417,4104185692,878237828=notes: Demo + Frenzy (Combat Focus) (Only If You Dont Have Better) 
 dimwishlist:item=3485029080&perks=839105230,3142289711,3108830275,4104185692,878237828=notes: Unrelenting + Frenzy (Nether Survival) 
+
 
 //Adamantite (Adpet) w/ Runneth Over - 
 
@@ -53,12 +55,14 @@ dimwishlist:item=2553380021&perks=1478423395,2822142346,1583705720,3218042543,87
 dimwishlist:item=2553380021&perks=1478423395,2822142346,684456054,3218042543,878237828=notes: Eddy Current + Rolling Storm (Datto Approved Roll) 
 dimwishlist:item=2553380021&perks=1478423395,2822142346,2010801679,3108830275,878237828=notes: Abmitious Assassin + Unrelenting (Nether Survival) 
 
+
 //Eyes Unvailed 
 
 dimwishlist:item=727781522&perks=839105230,689005463,3643424744,1134488199,878237828=notes: Overflow + Withering Gaze (LGG Most Popular) 
 dimwishlist:item=727781522&perks=839105230,689005463,3400784728,1134488199,878237828=notes: Triple Tap + Withering Gaze 
 dimwishlist:item=727781522&perks=839105230,689005463,3400784728,4104185692,878237828=notes: Triple Tap + Frenzy (Damage Roll) (Datto Recommened) 
 dimwishlist:item=727781522&perks=839105230,2680121939,2010801679,3978468247,878237828=notes: Abmitious Assassin + Discord (Funky Ammo Regen) 
+
 
 //Eyes Unvailed w/ Runneth Over - 615373993 , 
 
@@ -67,167 +71,248 @@ dimwishlist:item=615373993&perks=839105230,689005463,3400784728,1134488199,12072
 dimwishlist:item=615373993&perks=839105230,689005463,3400784728,4104185692,120721526=notes: Triple Tap + Frenzy (Damage Roll) (Datto Recommened) 
 dimwishlist:item=615373993&perks=839105230,2680121939,2010801679,3978468247,120721526=notes: Abmitious Assassin + Discord (Funky Ammo Regen) 
 
-//Eyes Unvailed (Adpet) 
+
+//Eyes Unvailed (Adpet) -282549639
+
+dimwishlist:item=282549639&perks=839105230,689005463,3643424744,1134488199,878237828=notes: Overflow + Withering Gaze (LGG Most Popular) 
+dimwishlist:item=282549639&perks=839105230,689005463,3400784728,1134488199,878237828=notes: Triple Tap + Withering Gaze 
+dimwishlist:item=282549639&perks=839105230,689005463,3400784728,4104185692,878237828=notes: Triple Tap + Frenzy (Damage Roll) (Datto Recommened) 
+dimwishlist:item=282549639&perks=839105230,2680121939,2010801679,3978468247,878237828=notes: Abmitious Assassin + Discord (Funky Ammo Regen) 
+
 
 //Eyes Unvailed (Adpet) w/ Runneth Over - 4173311704
 
+dimwishlist:item=4173311704&perks=839105230,689005463,3643424744,1134488199,120721526=notes: Overflow + Withering Gaze (LGG Most Popular) 
+dimwishlist:item=41733117049&perks=839105230,689005463,3400784728,1134488199,120721526=notes: Triple Tap + Withering Gaze 
+dimwishlist:item=4173311704&perks=839105230,689005463,3400784728,4104185692,120721526=notes: Triple Tap + Frenzy (Damage Roll) (Datto Recommened) 
+dimwishlist:item=41733117049&perks=839105230,2680121939,2010801679,3978468247,120721526=notes: Abmitious Assassin + Discord (Funky Ammo Regen) 
+
+
 //Watchful Eye 
+
+dimwishlist:item=1757177186&perks=839105230,2420895100,3643424744,3966416502,878237828=notes: Overflow + Eddy Jolting Feedback (LGG Most Popular) 
+dimwishlist:item=1757177186&perks=839105230,2420895100,3643424744,557221067,878237828=notes: Overflow + Killing Tally (Datto Roll #1) 
+dimwishlist:item=1757177186&perks=839105230,2420895100,2869569095,3708227201,878237828=notes: Field Prep + Surrounded (Nether/Ad Heavy Content) 
+dimwishlist:item=1757177186&perks=839105230,2420895100,684456054,3218042543,878237828=notes: Eddy Current + Rolling Storm 
+dimwishlist:item=1757177186&perks=839105230,2420895100,684456054,3966416502,878237828=notes: Eddt Current + Jolting Feedback
+
 
 //Watchful Eye w/ Runneth Over 
 
+dimwishlist:item=768610585&perks=839105230,2420895100,3643424744,3966416502,120721526=notes: Overflow + Eddy Jolting Feedback (LGG Most Popular) 
+dimwishlist:item=768610585&perks=839105230,2420895100,3643424744,557221067,120721526=notes: Overflow + Killing Tally (Datto Roll) 
+dimwishlist:item=768610585&perks=839105230,2420895100,2869569095,3708227201,120721526=notes: Field Prep + Surrounded (Nether/Ad Heavy Content) 
+dimwishlist:item=768610585&perks=839105230,2420895100,684456054,3218042543,120721526=notes: Eddy Current + Rolling Storm 
+dimwishlist:item=768610585&perks=839105230,2420895100,684456054,3966416502,120721526=notes: Eddt Current + Jolting Feedback
+
 //Watchful Eye (Adept) 
+
+dimwishlist:item=737409399&perks=839105230,2420895100,3643424744,3966416502,878237828=notes: Overflow + Eddy Jolting Feedback (LGG Most Popular) 
+dimwishlist:item=737409399&perks=839105230,2420895100,3643424744,557221067,878237828=notes: Overflow + Killing Tally (Datto Roll #1) 
+dimwishlist:item=737409399&perks=839105230,2420895100,2869569095,3708227201,878237828=notes: Field Prep + Surrounded (Nether/Ad Heavy Content) 
+dimwishlist:item=737409399&perks=839105230,2420895100,684456054,3218042543,878237828=notes: Eddy Current + Rolling Storm 
+dimwishlist:item=737409399&perks=839105230,2420895100,684456054,3966416502,878237828=notes: Eddt Current + Jolting Feedback
 
 //Watchful Eye (Adept)  w/ Runneth Over 
 
+dimwishlist:item=2856225832&perks=839105230,2420895100,3643424744,3966416502,120721526=notes: Overflow + Eddy Jolting Feedback (LGG Most Popular) 
+dimwishlist:item=2856225832&perks=839105230,2420895100,3643424744,557221067,120721526=notes: Overflow + Killing Tally (Datto Roll #1) 
+dimwishlist:item=2856225832&perks=839105230,2420895100,2869569095,3708227201,120721526=notes: Field Prep + Surrounded (Nether/Ad Heavy Content) 
+dimwishlist:item=2856225832&perks=839105230,2420895100,684456054,3218042543,120721526=notes: Eddy Current + Rolling Storm 
+dimwishlist:item=2856225832&perks=839105230,2420895100,684456054,3966416502,120721526=notes: Eddt Current + Jolting Feedback
+
+
 //Abyssal Edge 
+
+dimwishlist:item=547165496&perks=436053704,52780822,1749209109,31345821,878237828=notes: Relentless + Sword Logic (LGG Most Popular) 
+dimwishlist:item=547165496&perks=436053704,52780822,1749209109,3708227201,878237828=notes: Relentless + Surrounded 
+dimwishlist:item=547165496&perks=436053704,52780822,2590710093,1685431615,878237828=notes: Tireless + En Garde (Hot Swap) 
+
+
 
 //Abyssal Edge (Adept) 
 
-//Heresy Act 2 + 3: 
+dimwishlist:item=2712683313&perks=436053704,52780822,1749209109,31345821,878237828=notes: Relentless + Sword Logic (LGG Most Popular)
+dimwishlist:item=2712683313&perks=436053704,52780822,1749209109,3708227201,878237828=notes: Relentless + Surrounded
+dimwishlist:item=2712683313&perks=436053704,52780822,2590710093,1685431615,878237828=notes: Tireless + En Garde (Hot Swap) 
+
+//Heresy Act 2 + 3: -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Anamnesis 
 
+
 //Anamnesis (Adept) 
+
 
 //Divison 
 
+
 //Divison w/ Runneth Over 
+
 
 //Divison (Adept) 
 
+
 //Divison (Adept) w/ Runneth Over 
+
 
 //Refusal of the Call 
 
+
 //Refusal of the Call (Adept) 
+
 
 //Adterlight 
 
+
 //Adterlight w/ Runneth Over 
+
 
 //Afterlight (Adept) 
 
+
 //Afterlight (Adept) w/ Runneth Over 
+
 
 //Mirror Imago 
 
+
 //Mirror Imago w/ Runneth Over 
+
 
 //Mirror Imago (Adept) 
 
+
 //Mirror Imago (Adept) w/ Runneth Over 
 
-//Sundered Doctrine 
+
+//Sundered Doctrine ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Unloved 
 
+
 //Unsworn 
+
 
 //Unvoiced 
 
+
 //Unworthy 
 
-//Vault Of Glass (Refresh) 
+
+//Vault Of Glass (Refresh) ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Fatebringer 
 
+
 //Fatebringer (Timelost) 
+
 
 //Found Verdict 
 
+
 //Found Verdict (Timelost) 
+
 
 //Hezen Vengance 
 
+
 //Hezen Vengance (Timelost) 
+
 
 //Corrective Measures 
 
+
 //Corrective Measures (Timelost) 
+
 
 //Praedyth's Revenge 
 
+
 //Praedyth's Revenge (Timelost)
+
 
 //Vision of Confluence 
 
+
 //Vision of Confluence (Timelost) 
 
-//Season Of Arrivals Refresh 
+
+//Season Of Arrivals Refresh -----------------------------------------------------------------------------------------------------------------------------------------------
 
 //Cold Denial 
 
+
 //False Promise 
+
 
 //Hollow Words 
 
+
 //Temptation's Hook 
+
 
 //Whispering Slab
 
-//Strikes,Gambit,Cruicble 
+
+//Strikes,Gambit,Cruicble ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Joxer's Longsword 
 
+
 //Cynosure 
+
 
 //Backfang 
 
-//Nightfalls
+
+//Nightfalls -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //The Palindrome 
 
+
 //The Palindrome (Adept) 
+
 
 //Lotus-Eater 
 
+
 //Lotus-Eater (Adept) 
 
-//Competive
+
+//Competive -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Redrix's Estoc 
 
-//Trials 
+
+//Trials ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Exalted Truth 
 
+
 //Exalted Truth (Adept) 
+
 
 //Keen Thistle 
 
+
 //Keen Thistle (Adept) 
 
-//World Drop 
+//World Drop ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Boondoggle MK. 55 
 
+
 //Qua Furor V 
 
+
 //Cruoris FR4
+
 
 //Admetus-D 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Revenant Act 1: 
+Revenant Act 1: ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Insurmountable 
 
@@ -269,7 +354,7 @@ dimwishlist:item=3830941962&perks=839105230,3142289711,684456054,3966416502,2041
 dimwishlist:item=3830941962&perks=839105230,3142289711,1583705720,3966416502,2041432007=notes: SFA + Jolting Feedback (Neutral Game) 
 dimwishlist:item=3830941962&perks=839105230,3142289711,1583705720,4049631843,2041432007=notes: SFA + OFA 
 
-//Act 2 + Act 3 Seasonal Weapons 
+//Act 2 + Act 3 Seasonal Weapons ---------------------------------------------------------------------------------------------------------------------------------------------
 
 //Noxious Vetiver 
 
@@ -299,7 +384,7 @@ dimwishlist:item=4224667951&perks=1478423395,2985827016,3300816228,3194351027,20
 dimwishlist:item=4224667951&perks=1478423395,2985827016,2869569095,1439600632,2041432007=notes: Field Prep + Bipod (Nightfall + Ammo Economy) 
 
 
-//Reprised Seasonal Weapons 
+//Reprised Seasonal Weapons ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Chroma Rush 
 
@@ -327,7 +412,8 @@ dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2048641572,340
 dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2109543898,3404929162=notes: Demo + Desperate Measures
 dimwishlist:item=3433930495&perks=839105230,1885400500,2387244414,460017080,3404929162=notes: Zen Moment + Headseeker 
 
-//Playlist Weapons
+//Playlist Weapons-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 //Vangaurd 
 
@@ -349,7 +435,7 @@ dimwishlist:item=1051949956&perks=839105230,1885400500,684456054,2173046394,4091
 dimwishlist:item=1051949956&perks=839105230,1885400500,3523296417,11612903,4091460919=notes: Demo + Adrenaline Junkie 
 dimwishlist:item=1051949956&perks=839105230,1885400500,3523296417,2109543898,4091460919=notes: Demo + Desprate Measures 
 
-//Comp Reward 
+//Comp Reward -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Deadlock
 
@@ -432,10 +518,6 @@ dimwishlist:item=2300143112&perks=4090651448,1885400500,247725512,1546637391,298
 dimwishlist:item=2378785953&perks=4090651448,1885400500,247725512,460017080,2988596335=notes: Rapid Hit + Headseeker (LGG Most Popular) 
 dimwishlist:item=303107619&perks=1478423395,3796465595,1134488199,3078487919,2988596335=notes: Dragonfly + Voltshot 
 dimwishlist:item=2378785953&perks=4090651448,1885400500,1354429876,1546637391,2988596335=notes: 4th Times + Vorpal 
-
-
-
-
 
 //Tomorrow's Answer
 
