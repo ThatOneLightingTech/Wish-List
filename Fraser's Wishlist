@@ -3,7 +3,6 @@
 Heresy Act 1: 
 
 
-
 //Adamantite 
 
 dimwishlist:item=3229982889&perks=839105230,3142289711,692399809,2298656195,878237828=notes: Reciprocity + Circle Of Life (LGG Most Popular) 
@@ -105,6 +104,7 @@ dimwishlist:item=768610585&perks=839105230,2420895100,2869569095,3708227201,1207
 dimwishlist:item=768610585&perks=839105230,2420895100,684456054,3218042543,120721526=notes: Eddy Current + Rolling Storm 
 dimwishlist:item=768610585&perks=839105230,2420895100,684456054,3966416502,120721526=notes: Eddt Current + Jolting Feedback
 
+
 //Watchful Eye (Adept) 
 
 dimwishlist:item=737409399&perks=839105230,2420895100,3643424744,3966416502,878237828=notes: Overflow + Eddy Jolting Feedback (LGG Most Popular) 
@@ -112,6 +112,7 @@ dimwishlist:item=737409399&perks=839105230,2420895100,3643424744,557221067,87823
 dimwishlist:item=737409399&perks=839105230,2420895100,2869569095,3708227201,878237828=notes: Field Prep + Surrounded (Nether/Ad Heavy Content) 
 dimwishlist:item=737409399&perks=839105230,2420895100,684456054,3218042543,878237828=notes: Eddy Current + Rolling Storm 
 dimwishlist:item=737409399&perks=839105230,2420895100,684456054,3966416502,878237828=notes: Eddt Current + Jolting Feedback
+
 
 //Watchful Eye (Adept)  w/ Runneth Over 
 
@@ -127,7 +128,6 @@ dimwishlist:item=2856225832&perks=839105230,2420895100,684456054,3966416502,1207
 dimwishlist:item=547165496&perks=436053704,52780822,1749209109,31345821,878237828=notes: Relentless + Sword Logic (LGG Most Popular) 
 dimwishlist:item=547165496&perks=436053704,52780822,1749209109,3708227201,878237828=notes: Relentless + Surrounded 
 dimwishlist:item=547165496&perks=436053704,52780822,2590710093,1685431615,878237828=notes: Tireless + En Garde (Hot Swap) 
-
 
 
 //Abyssal Edge (Adept) 
@@ -190,128 +190,293 @@ dimwishlist:item=2712683313&perks=436053704,52780822,2590710093,1685431615,87823
 
 //Unloved 
 
+dimwishlist:item=2485881870&perks=839105230,1885400500,2848615171,960997401,1298135794=notes: Dragonfly + Tear (LGG Most Popualar) 
+dimwishlist:item=2485881870&perks=839105230,1885400500,831391274,960997401,1298135794=notes: Hatchling + Tear 
+dimwishlist:item=2485881870&perks=839105230,1885400500,2848615171,4104185692,1298135794=notes: Dragonfly + Frenzy 
+dimwishlist:item=2485881870&perks=839105230,1885400500,2848615171,3215448563,1298135794=notes: Dragonfly + Paracausal 
+
 
 //Unsworn 
+
+dimwishlist:item=1303313141&perks=839105230,2680121939,3418782618,4198902903,1298135794=notes: Rewind Rounds + Detonator Beam (LLG Most Popular) 
+dimwishlist:item=1303313141&perks=839105230,2680121939,3700496672,4198902903,1298135794=notes: Shoot 2 Loot + Detonator Beam 
+dimwishlist:item=1303313141&perks=839105230,2680121939,3418782618,365154968,1298135794=notes: Rewind Rounds + Target Lock 
+dimwishlist:item=1303313141&perks=839105230,2680121939,960997401,831391274,1298135794=notes: Tear + Hatching 
 
 
 //Unvoiced 
 
+dimwishlist:item=3360937899&perks=839105230,791862061,2048641572,1464081238,1298135794=notes: Destabilizing Rounds + Demoralize (LGG Most Popular)
+dimwishlist:item=3360937899&perks=839105230,791862061,3987942396,3078487919,1298135794=ntoes: Envious Arsenal + Bait & Switch 
+dimwishlist:item=3360937899&perks=839105230,791862061,1354429876,1546637391,1298135794-notes: 4th Times + Vorpal 
+dimwishlist:item=3360937899&perks=839105230,791862061,2579169598,1194056669,1298135794=notes: Lone Wolf + Closing Time (PVP)
+
 
 //Unworthy 
 
+dimwishlist:item=2226158470&perks=839105230,1885400500,3824105627,2173046394,1298135794=notes: Firefly + Voltshot (LGG Most Popular) 
+dimwishlist:item=2226158470&perks=839105230,1885400500,3824105627,3218042543,1298135794=notes: Firefly + Rolling Storm 
+dimwishlist:item=2226158470&perks=839105230,1885400500,3418782618,555281244,1298135794=notes: Rewind Rounds + Precision Instrument 
+dimwishlist:item=2226158470&perks=839105230,1885400500,247725512,555281244,1298135794=notes: Rapid Hit + Precision Instrument 
+dimwishlist:item=2226158470&perks=839105230,1885400500,3619207468,2387244414,1298135794=notes: Keep Away + Zen Moment (PVP) 
 
 //Vault Of Glass (Refresh) ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Fatebringer 
+dimwishlist:item=4184168210&perks=839105230,3142289711,3038247973,3824105627,2589407652=notes: Explosive Payload + Firefly (LGG Most Popular)
+dimwishlist:item=4184168210&perks=839105230,3142289711,3891536761,3824105627,2589407652=notes: Kinetic Tremors + Firefly 
+dimwishlist:item=4184168210&perks=839105230,3142289711,3038247973,4049631843,2589407652=notes: Explosive Payload + OFA 
+dimwishlist:item=4184168210&perks=839105230,3142289711,3038247973,2720533289,2589407652=notes: Explosvie Payload + Mag Howl 
+dimwishlist:item=4184168210&perks=839105230,3142289711,3619207468,699525795,2589407652=notes: Keep Away + EOS 
 
 
 //Fatebringer (Timelost) 
 
+dimwishlist:item=4219826183&perks=4090651448,3142289711,3038247973,3824105627,2589407652=notes: Exlosive Payload + Firefly (LGG Most Popualar) 
+dimwishlist:item=4219826183&perks=4090651448,3142289711,3891536761,3824105627,2589407652=notes: Kinetic Tremors + Firefly
+dimwishlist:item=4219826183&perks=4090651448,3142289711,3038247973,4049631843,2589407652=notes: Explosive Payload + OFA
+dimwishlist:item=4219826183&perks=4090651448,3142289711,3038247973,2720533289,2589407652=notes: Explosvie Payload + Mag Howl 
+dimwishlist:item=4219826183&perks=4090651448,3142289711,3619207468,699525795,2589407652=notes: Keep Away + EOS
+
 
 //Found Verdict 
+
+dimwishlist:item=694500607&perks=1332244541,791862061,4071163871,47981717,2589407652=notes: Threat Detector + Opening Shot (LGG Most Popular)
+dimwishlist:item=694500607&perks=1332244541,791862061,3161816588,47981717,2589407652=notes: Slideshot + Opening Shot 
+dimwishlist:item=694500607&perks=1332244541,791862061,691659142,2679249093,2589407652=notes: Pugilist + One Two Punch 
+dimwishlist:item=694500607&perks=1332244541,791862061,3161816588,2173046394,2589407652=notes: Slideshot + Voltshot 
+dimwishlist:item=694500607&perks=1332244541,791862061,1126264488,2360754333,2589407652=notes: Threat Remover + Trench Barrel 
 
 
 //Found Verdict (Timelost) 
 
+dimwishlist:item=851296754&perks=1300023272,3142289711,791862061,4071163871,47981717,2589407652=notes: Threat Detector + Opening Shot (LGG Most Popular)
+dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,47981717,2589407652=notes: Slideshot + Opening Shot 
+dimwishlist:item=851296754&perks=1300023272,3142289711,691659142,2679249093,2589407652=notes: Pugilist + One Two Punch 
+dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,2173046394,2589407652=notes: Slideshot + Voltshot 
+dimwishlist:item=851296754&perks=1300023272,3142289711,1126264488,2360754333,2589407652=notes: Threat Remover + Trench Barrel 
+
 
 //Hezen Vengance 
+
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919,2589407652=notes: Envious Arsenal + Bait And Switch (LGG Most Popular) 
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,1089671869,2589407652=notes: Envious Arsenal + Elemental Honing 
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3643424744,3078487919,2589407652=notes: Overflow + Bait And Switch 
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,1439600632,2589407652-notes: Envious Arsenal + Bipod 
 
 
 //Hezen Vengance (Timelost) 
 
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,3078487919,2589407652=notes: Envious Arsenal + Bait and Switch (LGG Most Popular) 
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,1089671869,2589407652=notes: Envious Arsenal + Elemental Honing 
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,3078487919,2589407652=notes: Overflow + Bait And Switch 
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,1439600632,2589407652-notes: Envious Arsenal + Bipod 
+
 
 //Corrective Measures 
+
+dimwishlist:item=3654744298&perks=839105230,3177308360,2048641572,1464081238,2589407652=notes: Destabilizing Rounds + Demoralize (LGG Most Popular)
+dimwishlist:item=3654744298&perks=839105230,3177308360,2048641572,557221067,2589407652=notes: Destabilizing Rounds + Killing Tally 
+dimwishlist:item=3654744298&perks=839105230,3177308360,2048641572,4049631843,2589407652=notes: Destabilizing Rounds + OFA
+dimwishlist:item=3654744298&perks=839105230,3177308360,3201496230,557221067,2589407652=notes: Redirection + Killing Tally 
 
 
 //Corrective Measures (Timelost) 
 
+dimwishlist:item=2334480463&perks=839105230,106909392,2048641572,557221067,2589407652=notes: Destabilizing Rounds + Killing Tally (LGG Most Popular) 
+dimwishlist:item=2334480463&perks=839105230,106909392,2048641572,1464081238,2589407652=notes: Destabilizing Rounds + Demoralize
+dimwishlist:item=2334480463&perks=839105230,106909392,2048641572,4049631843,2589407652=notes: Destabilizing Rounds + OFA
+dimwishlist:item=2334480463&perks=839105230,106909392,3201496230,557221067,2589407652=notes: Redirection + Killing Tally
+
 
 //Praedyth's Revenge 
+
+dimwishlist:item=3844610113&perks=839105230,3142289711,3891536761,3078487919,2589407652=notes: Kinetic Tremors + Bait and Switch (LGG Most Popular) 
+dimwishlist:item=3844610113&perks=839105230,3142289711,3987942396,3078487919,2589407652=notes: Envious Arsenal + Bait and Switch 
+dimwishlist:item=3844610113&perks=839105230,3142289711,1354429876,555281244,2589407652=notoes: 4th Times + Precision Instrument
+dimwishlist:item=3844610113&perks=839105230,3142289711,3418782618,555281244,2589407652=notes: Rewind Rounds + Precision Instrument
+dimwishlist:item=3844610113&perks=839105230,3142289711,3978468247,3824105627,2589407652=notes: Discord + Firefly 
 
 
 //Praedyth's Revenge (Timelost)
 
+dimwishlist:item=2362652544&perks=839105230,106909392,3891536761,3078487919,2589407652=notes: Kinetic Tremors + Bait and Switch (LGG Most Popular) 
+dimwishlist:item=2362652544&perks=839105230,106909392,3987942396,3078487919,2589407652=notes: Envious Arsenal + Bait and Switch 
+dimwishlist:item=2362652544&perks=839105230,106909392,1354429876,555281244,2589407652=notes: 4th Times + Precision Instrument
+dimwishlist:item=2362652544&perks=839105230,106909392,3418782618,555281244,2589407652=notes: Rewind Rounds + Precision Instrument
+dimwishlist:item=2362652544&perks=839105230,106909392,3978468247,3824105627,2589407652=notes: Discord + Firefly 
+
 
 //Vision of Confluence 
 
+dimwishlist:item=3444688218&perks=839105230,3142289711,4293542123,3038247973,2589407652=notes: Incandescent + Explosive Payload (LGG Most Popular) 
+dimwishlist:item=3444688218&perks=839105230,3142289711,4293542123,3824105627,2589407652=notes: Incandescent + Firefly 
+dimwishlist:item=3444688218&perks=839105230,3142289711,3418782618,3824105627,2589407652=notes: Rewind Rounds + Firefly 
+dimwishlist:item=3444688218&perks=839105230,3142289711,3017780555,3038247973,2589407652=notes: Heal Clip + Explosive Payload 
+dimwishlist:item=3444688218&perks=839105230,3142289711,4293542123,3215448563,2589407652=notes: Incandescent + Paracausal Affinity 
+
 
 //Vision of Confluence (Timelost) 
+
+dimwishlist:item=337578911&perks=839105230,3142289711,4293542123,3824105627,2589407652=notes: Incandescent + Firefly (LGG Most Popular) 
+dimwishlist:item=337578911&perks=839105230,3142289711,4293542123,3038247973,2589407652=notes: Incandescent + Explosive Payload
+dimwishlist:item=337578911&perks=839105230,3142289711,3418782618,3824105627,2589407652=notes: Rewind Rounds + Firefly
+dimwishlist:item=337578911&perks=839105230,3142289711,3017780555,3038247973,2589407652=notes: Heal Clip + Explosive Payload 
+dimwishlist:item=337578911&perks=839105230,3142289711,4293542123,3215448563,2589407652=notes: Incandescent + Paracausal Affinity
 
 
 //Season Of Arrivals Refresh -----------------------------------------------------------------------------------------------------------------------------------------------
 
 //Cold Denial 
 
+dimwishlist:item=558794124&perks=839105230,2420895100,2387244414,460017080,1600429811=notes: Zen Moment + Headseeker
+dimwishlist:item=558794124&perks=839105230,2420895100,2387244414,3047969693,1600429811=notes: Zen Moment + Desperado
+dimwishlist:item=558794124&perks=839105230,2420895100,2387244414,3047969693,1600429811=notes: Enlightened Action + EOS 
+
 
 //False Promise 
 
+dimwishlist:item=1390080550&perks=839105230,2420895100,2010801679,124408337,1600429811=notes: Ambitious Assassin + Headstone 
+dimwishlist:item=1390080550&perks=839105230,2420895100,2010801679,3425386926,1600429811=notes: Ambitious Assassin + Rampage 
+dimwishlist:item=1390080550&perks=839105230,2420895100,2779035018,124408337,1600429811=notes: Feeding Frenzy + Headstone 
+dimwishlist:item=1390080550&perks=839105230,2420895100,1119449540,124408337,1600429811=notes: Loose Change + Headstone 
 
-//Hollow Words 
+
+//Hollow Words
+
+dimwishlist:item=342027677&perks=839105230,2680121939,1556840489,3218042543,1600429811=notes: LFG + Rolling Storm (ONLY SAVE THIS ROLL SHARD EVERYTHING ELSE) 
 
 
 //Temptation's Hook 
 
+dimwishlist:item=1587953057=notes: INSTA-SHARD! 
+
 
 //Whispering Slab
+
+dimwishlist:item=690341468=notes: INSTA-SHARD!
 
 
 //Strikes,Gambit,Cruicble ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Joxer's Longsword 
 
+dimwishlist:item=157601190&perks=839105230,1885400500,2848615171,2048641572,4091460919=notes: Dragonfly + Destabilizing Rounds (LGG Most Popular)
+dimwishlist:item=157601190&perks=839105230,1885400500,776531651,2048641572,4091460919=notes: Repulsor Brace + Destabilizing Rounds  
+dimwishlist:item=157601190&perks=839105230,1885400500,2848615171,1464081238,4091460919=notes: Dragonfly + Demoralize 
+dimwishlist:item=157601190&perks=839105230,1885400500,776531651,1464081238,4091460919=notes: Repulsor Brace + Demoralize 
+dimwishlist:item=157601190&perks=839105230,1885400500,2579169598,460017080,4091460919=notes: Lonewolf + Headseeker (PVP) 
+
 
 //Cynosure 
 
+dimwishlist:item=694275488&perks=1478423395,2985827016,1523832109,3194351027,744217850=notes: Reconstruction + Explosive Light (LGG Most Popular) 
+dimwishlist:item=694275488&perks=1478423395,2985827016,3987942396,3927722942,744217850=notes: Envious Arsenal + Lasting Impression 
+dimwishlist:item=694275488&perks=1478423395,2985827016,1523832109,2319119708,744217850=notes: Reconstruction + High Ground 
+
 
 //Backfang 
+
+dimwishlist:item=267672635&perks=1263609309,2420895100,2859149211,3966416502=notes: Beacon Rounds + Jolting Feedback (LGG Most Popular) 
+dimwishlist:item=267672635&perks=1263609309,2420895100,2859149211,2173046394=notes: Beacon Rounds + Voltshot 
+dimwishlist:item=267672635&perks=1263609309,2420895100,1556840489,2173046394=notes: Lead From Gold + Voltshot 
+dimwishlist:item=267672635&perks=1263609309,2420895100,951095735,3966416502=notes: Impusle Amp + Jolting Feedback 
 
 
 //Nightfalls -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //The Palindrome 
 
+dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,3218042543,1281216113=notes: Explosive Payload + Rolling Storm 
+dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,3081867624,1281216113=notes: Explosive Payload + Master Of Arms 
+dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,2720533289,1281216113=notes: Explosive Payload + Mag Howl  
+dimwishlist:item=2876244791&perks=4090651448,3142289711,3713215006,3218042543,1281216113=notes: Recycled Engery + Rolling Storm 
 
 //The Palindrome (Adept) 
+
+dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,3218042543,1281216113=notes: Explosive Payload + Rolling Storm 
+dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,3081867624,1281216113=notes: Explosive Payload + Master Of Arms
+dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,2720533289,1281216113=notes: Explosive Payload + Mag Howl 
+dimwishlist:item=4077588826&perks=4090651448,3142289711,3713215006,3218042543,1281216113=notes: Recycled Engery + Rolling Storm 
 
 
 //Lotus-Eater 
 
+dimwishlist:item=3922217119&perks=1478423395,106909392,2859149211,2048641572,1281216113=notes: Becon Rounds + Destabilizing Rounds 
+
+
 
 //Lotus-Eater (Adept) 
+
+dimwishlist:item=2697143634&perks=1478423395,106909392,2859149211,2048641572,1281216113=notes: Becon Rounds + Destabilizing Rounds
 
 
 //Competive -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Redrix's Estoc 
 
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2387244414,460017080,4259401308=notes: Zen Moment + Headseeker 
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2387244414,31345821,4259401308=notes: Zen Moment + Sword Logic 
+dimwishlist:item=3218364298&perks=4090651448,3142289711,2387244414,1015611457,4259401308=notes: Zen Moment + Kill Clip 
+dimwishlist:item=3218364298&perks=4090651448,3142289711,1428297954,1015611457,4259401308=notes: Pepmo + Kill Clip 
+
+
 
 //Trials ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Exalted Truth 
 
+dimwishlist:item=3436626079&perks=839105230,3142289711,2048641572,1464081238,2988596335=notes: Destabilizing Rounds + Demoralize (LGG Most Popualar) 
+dimwishlist:item=3436626079&perks=839105230,3142289711,2048641572,776531651,2988596335=notes: Destabilizing Rounds + Repulsor Brace 
+dimwishlist:item=3436626079&perks=839105230,3142289711,3619207468,555281244,2988596335=note: Keep Away + Precision Instrument 
+dimwishlist:item=3436626079&perks=839105230,3142289711,3161816588,47981717,2988596335=notes: SLideshot + Opening Shot 
+
 
 //Exalted Truth (Adept) 
+
+dimwishlist:item=1201528146&perks=3250034553,3142289711,3161816588,47981717,2988596335=notes: SLideshot + Opening Shot (LGG Most Popular) 
+dimwishlist:item=1201528146&perks=3250034553,3142289711,2048641572,1464081238,2988596335=notes: Destabilizing Rounds + Demoralize
+dimwishlist:item=1201528146&perks=3250034553,3142289711,2048641572,776531651,2988596335=notes: Destabilizing Rounds + Repulsor Brace
+dimwishlist:item=1201528146&perks=3250034553,3142289711,3619207468,555281244,2988596335=note: Keep Away + Precision Instrument
 
 
 //Keen Thistle 
 
+dimwishlist:item=1893967086&perks=839105230,3142289711,957782887,1194056669,2988596335=notes: Snapshot + Closing Time 
+dimwishlist:item=1893967086&perks=839105230,3142289711,957782887,47981717,2988596335=notes: Snapshot + Opening Shot 
+dimwishlist:item=1893967086&perks=839105230,3142289711,4293542123,3978468247,2988596335=notes: Incan + Discord 
+dimwishlist:item=1893967086&perks=839105230,3142289711,3987942396,3078487919,2988596335=notes: Envious Arsenal + Bait and Switch 
+
 
 //Keen Thistle (Adept) 
+
+dimwishlist:item=3503560035=notes: Will Update When Adept Comes Out 
+
 
 //World Drop ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Boondoggle MK. 55 
 
+dimwishlist:item=32287609&perks=839105230,2420895100,1866048759,2416023159,2437618208=notes: Hipfire Grip + Off Hand Strike (LGG Most Popular) 
 dimwishlist:item=32287609&perks=3661387068,1885400500,1866048759,2416023159,2437618208=notes: 100 Stability Build
 
 
 //Qua Furor V 
 
+dimwishlist:item=751880654&perks=839105230,2420895100,1955165503,2848615171,1050127423=notes: Rhimestealer + Dragonfly (LGG Most Popular)
+dimwishlist:item=751880654&perks=839105230,2420895100,1955165503,2610012052,1050127423 notes: Rhimestealer + Golden Tricorn 
+
 
 //Cruoris FR4
 
+dimwishlist:item=891996636&perks=839105230,689005463,684456054,3218042543,2839173408=notes: Eddy Current + Rolling Thunder (LGG Most Popular) 
+dimwishlist:item=891996636&perks=839105230,689005463,3713215006,3218042543,2839173408=notes: Recycled Engergy + Rolling Thunder 
+dimwishlist:item=891996636&perks=839105230,689005463,3978468247,3218042543,2839173408-notes: Discord + Rolling Thunder 
 
 //Admetus-D 
+
+dimwishlist:item=3776430252&perks=839105230,2420895100,776531651,1464081238,1607056502=notes: Repulsor Brace + Demoralize (LGG Most Popular) 
+dimwishlist:item=3776430252&perks=839105230,2420895100,776531651,1134488199,1607056502=notes: Repulsor Brace + Withering Gaze 
 
 
 Revenant Act 1: ---------------------------------------------------------------------------------------------------------------------------------------------------------------
