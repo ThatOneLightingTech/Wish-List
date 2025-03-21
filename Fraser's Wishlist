@@ -156,7 +156,7 @@ dimwishlist:item=3417731926&perks=3768438372,2154191829,201365942,3365897133,120
 
 //Anamnesis (Adept) 
 
-dimwishlist:item=1536325168&perks=1196733167,3429800428,2848615171,2048641572,878237828=notes: Dragonfly + Restablizing Rounds (LGG Most Popular)
+dimwishlist:item=1536325168&perks=1196733167,3429800428,2848615171,2048641572,878237828=notes: Dragonfly + Destablizing Rounds (LGG Most Popular)
 dimwishlist:item=1536325168&perks=1196733167,3429800428,776531651,2048641572,878237828=notes: Replusor Brace + Destablizing Rounds
 dimwishlist:item=1536325168&perks=1196733167,3429800428,2848615171,1464081238,878237828=notes: Dragonfly + Demoralize
 dimwishlist:item=1536325168&perks=1196733167,3429800428,201365942,3365897133,878237828=notes: Archers Tempo + Explosive Head
@@ -164,23 +164,60 @@ dimwishlist:item=1536325168&perks=1196733167,3429800428,201365942,3365897133,878
 
 //Anamnesis (Adept) w/ Runneth Over 
 
+dimwishlist:item=3949253499&perks=1196733167,3429800428,2848615171,2048641572,120721526=notes: Dragonfly + Destablizing Rounds (LGG Most Popular)
+dimwishlist:item=3949253499&perks=1196733167,3429800428,776531651,2048641572,120721526=notes: Replusor Brace + Destablizing Rounds
+dimwishlist:item=3949253499&perks=1196733167,3429800428,2848615171,1464081238,120721526=notes: Dragonfly + Demralize
+dimwishlist:item=3949253499&perks=1196733167,3429800428,201365942,3365897133,120721526=notes: Archers Tempo + Explosive Head 
+
 
 //Divison 
+
+dimwishlist:item=2903168058&perks=839105230,3142289711,684456054,2173046394,878237828=notes: Eddy Current + Voltshot (LGG Most Popular)
+dimwishlist:item=2903168058&perks=839105230,3142289711,691659142,2173046394,878237828=notes: Pugilist + Voltshot
+dimwishlist:item=2903168058&perks=839105230,3142289711,1631667848,2173046394,878237828=notes: Graverobber + Voltshot 
+dimwishlist:item=2903168058&perks=839105230,3142289711,684456054,31345821,878237828=notes: Eddy Current + Swordlogic 
 
 
 //Divison w/ Runneth Over 
 
+dimwishlist:item=2992463569&perks=839105230,3142289711,684456054,2173046394,120721526=notes: Eddy Curraent + Voltshot (LGG Most Popular) 
+dimwishlist:item=2992463569&perks=839105230,3142289711,691659142,2173046394,120721526=notes: Puglilist + Voltshot 
+dimwishlist:item=2992463569&perks=839105230,3142289711,1631667848,2173046394,120721526=notes: Grave Robber + Voltshot
+dimwishlist:item=2992463569&perks=839105230,3142289711,684456054,31345821,120721526=notes: Eddy Current + Sword Logic 
 
 //Divison (Adept) 
 
+dimwishlist:item=3734001727&perks=839105230,3142289711,684456054,2173046394,878237828=notes: Eddy Current + Voltshot (LGG Most Popular) 
+dimwishlist:item=3734001727&perks=839105230,3142289711,691659142,2173046394,878237828=notes: Puglilist + Voltshot 
+dimwishlist:item=3734001727&perks=839105230,3142289711,1631667848,2173046394,878237828=notes: Grave Robber + Voltshot 
+dimwishlist:item=3734001727&perks=839105230,3142289711,684456054,31345821,878237828=notes: Eddy Current + Sword Logic 
+
 
 //Divison (Adept) w/ Runneth Over 
+
+dimwishlist:item=3734001727&perks=839105230,3142289711,684456054,2173046394,878237828=notes: Pugilist + EOS (LGG Most Popular) 
+dimwishlist:item=2501377328&perks=839105230,3142289711,684456054,2173046394,120721526=notes: Eddy Current + Voltsshot 
+dimwishlist:item=2501377328&perks=839105230,3142289711,691659142,2173046394,120721526=notes: Puglilist + Voltshot 
+dimwishlist:item=2501377328&perks=839105230,3142289711,1631667848,2173046394,120721526=notes: Grave Robber + Voltshot 
+dimwishlist:item=2501377328&perks=839105230,3142289711,684456054,31345821,120721526=notes: Eddy Current + Sword Logic 
 
 
 //Refusal of the Call 
 
 
-//Refusal of the Call (Adept) 
+
+
+//Refusal of the Call w/ Runneth Over 
+
+ 
+
+
+//Refusal Of The Call (Adpet) 
+
+
+
+//Refusal Of The Call (Adpet) w/ Runneth Over 
+
 
 
 //Adterlight 
