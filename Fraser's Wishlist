@@ -204,44 +204,103 @@ dimwishlist:item=2501377328&perks=839105230,3142289711,684456054,31345821,120721
 
 //Refusal of the Call 
 
-
+dimwishlist:item=3269398063&perks=1263609309,2420895100,923806249,31345821,878237828=notes: Slice + Sword Logig (LGG Most Popular) 
+dimwishlist:item=3269398063&perks=1263609309,2420895100,968510818,31345821,878237828=notes: Envious Assassin + Sword Logic
+dimwishlist:item=3269398063&perks=1263609309,2420895100,1966281507,31345821,878237828=notes: Replenishing Aegis + Sword Logic 
+dimwishlist:item=3269398063&perks=1263609309,2420895100,1966281507,1782407750,878237828=notes: Replenishing Aegis + Close To Melee 
 
 
 //Refusal of the Call w/ Runneth Over 
 
- 
+dimwishlist:item=2671849376&perks=1263609309,3142289711,923806249,31345821,120721526=notes: Slice + Sword Logic (LGG Most Popular) 
+dimwishlist:item=2671849376&perks=1263609309,3142289711,923806249,3773585912,120721526=notes: Slice + Melee Momentum 
+dimwishlist:item=2671849376&perks=1263609309,3142289711,951095735,31345821,120721526=notes: Impulse Amplifier + Sword Logic 
+dimwishlist:item=2671849376&perks=1263609309,3142289711,968510818,31345821,120721526=notes: Envious Assassin + Sword Logic 
+dimwishlist:item=2671849376&perks=1263609309,3142289711,1966281507,1782407750,120721526=notes: Replenishing Aegis + Close To Melee
 
 
 //Refusal Of The Call (Adpet) 
 
-
+dimwishlist:item=25228802&perks=1263609309,2420895100,923806249,31345821,878237828=notes: Slice + Sword Logic (LGG Most Popular) 
+dimwishlist:item=25228802&perks=1263609309,2420895100,1966281507,31345821,878237828=notes: Replenishing Aegis + Sword Logic 
+dimwishlist:item=25228802&perks=1263609309,2420895100,968510818,31345821,878237828=notes: Envious Assassin + Sword Logic 
+dimwishlist:item=25228802&perks=1263609309,2420895100,1966281507,1782407750,878237828=notes: Replishing Aegis + Close To Melee 
 
 //Refusal Of The Call (Adpet) w/ Runneth Over 
 
+dimwishlist:item=2755584425&perks=1263609309,3142289711,923806249,31345821,120721526=notes: Slice + Sword Logic (LGG Most Popular)
+dimwishlist:item=2755584425&perks=1263609309,3142289711,923806249,1782407750,120721526=notes: Slice + Close To Melee 
+dimwishlist:item=2755584425&perks=1263609309,3142289711,1966281507,31345821,120721526=notes: Replenishing Aegis + Sword Logic 
+dimwishlist:item=2755584425&perks=1263609309,3142289711,951095735,31345821,120721526=notes: Impulse Amplifier + Sword Logic 
+dimwishlist:item=2755584425&perks=1263609309,3142289711,1966281507,1782407750,120721526=notes: Replishing Aegis + Close To Melee 
 
 
 //Adterlight 
 
+dimwishlist:item=3228630258&perks=839105230,689005463,2010801679,2048641572,878237828=notes: Ambitious Assassin + Destablizing Rounds (LGG Most Popular) 
+dimwishlist:item=3228630258&perks=839105230,689005463,1556840489,2048641572,878237828=notes: Lead From Gold + Destablizing Rounds 
+dimwishlist:item=3228630258&perks=839105230,689005463,2010801679,1427256713,878237828=nootes: Ambitious Assassin + Reservior Burst 
+dimwishlist:item=3228630258&perks=839105230,689005463,3978468247,1427256713,878237828+notes: Discord + Reservior Burst 
+dimwishlist:item=3228630258&perks=839105230,689005463,3978468247,2048641572,878237828=notes: Discord + Destablizing Rounds 
+
 
 //Adterlight w/ Runneth Over 
+
+dimwishlist:item=1834313033&perks=839105230,2680121939,2010801679,1427256713,120721526=notes: Ambitious Assassin + Reservior Burst (LGG Most Popular) 
+dimwishlist:item=1834313033&perks=839105230,2680121939,2010801679,2048641572,120721526=notes: Ambitious Assassin + Destablizing Rounds
+dimwishlist:item=1834313033&perks=839105230,2680121939,1556840489,2048641572,120721526=notes: Lead From Gold + Destablizing Rounds 
+dimwishlist:item=1834313033&perks=839105230,2680121939,3978468247,2048641572,120721526=notes: Discord + Destablizing Rounds 
+dimwishlist:item=1834313033&perks=839105230,2680121939,3978468247,1427256713,120721526=notes: Discord + Reservior Burst 
 
 
 //Afterlight (Adept) 
 
+dimwishlist:item=3953163559&perks=839105230,689005463,2010801679,2048641572,878237828=notes: Ambitious Assassin + Reservior Burst (LGG Most Popular) 
+dimwishlist:item=3953163559&perks=839105230,689005463,1556840489,2048641572,878237828=notes: Lead From Gold + Destablizing Rounds 
+dimwishlist:item=3953163559&perks=839105230,689005463,2010801679,1427256713,878237828=notes: Ambitious Assassin + Reservior Burst
+dimwishlist:item=3953163559&perks=839105230,689005463,3978468247,1427256713,878237828=notes: Discord + Reservior Burst 
+dimwishlist:item=3953163559&perks=839105230,689005463,3978468247,2048641572,878237828=notes: Discord + Destablizing Rounds
+
 
 //Afterlight (Adept) w/ Runneth Over 
+
+dimwishlist:item=861521336&perks=4090651448,1687452232,2010801679,2048641572,120721526=notes: Ambitious Assassin + Destablizing Rounds (LGG Most Popular) 
+dimwishlist:item=861521336&perks=4090651448,1687452232,1556840489,2048641572,120721526=notes: Lead From Gold + Destablizing Rounds 
+dimwishlist:item=861521336&perks=4090651448,1687452232,2010801679,1427256713,120721526=notes: Ambitious Assassin + Reservior Burst
+dimwishlist:item=861521336&perks=4090651448,1687452232,3978468247,1427256713,120721526=notes: Discord + Reservior Burst 
+dimwishlist:item=861521336&perks=4090651448,1687452232,3978468247,2048641572,120721526=notes: Discord + Destablizing Rounds
 
 
 //Mirror Imago 
 
+dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,31345821,878237828=notes: Overflow + Sword Logic (LGG Most Popular) 
+dimwishlist:item=3234363830&perks=839105230,3142289711,1820235745,31345821,878237828=notes: Subsistance + Sword Logic 
+dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,831391274,878237828=notes: Overflow + Hatchling 
+dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,365154968,878237828=notes: Overflow + Target Lock 
+
 
 //Mirror Imago w/ Runneth Over 
 
+dimwishlist:item=3877448149&perks=4090651448,3142289711,1820235745,31345821,120721526=notes: Subsistence + Sword Logic (LGG Most Popular) 
+dimwishlist:item=3877448149&perks=4090651448,3142289711,3643424744,31345821,120721526=notes: Overflow + Sword Logic 
+dimwishlist:item=3877448149&perks=4090651448,3142289711,3643424744,831391274,120721526=notes: Overflow + Hatchling
+dimwishlist:item=3877448149&perks=4090651448,3142289711,3643424744,365154968,120721526=notes: Overflow + Target Lock 
 
-//Mirror Imago (Adept) 
+
+//Mirror Imago (Adept)
+
+dimwishlist:item=302039451&perks=839105230,3142289711,3643424744,31345821,878237828=notes: Overflow + Sword Logic (LGG Most Popular) 
+dimwishlist:item=302039451&perks=839105230,3142289711,1820235745,31345821,878237828=notes: Subsistance + Sword Logic 
+dimwishlist:item=302039451&perks=839105230,3142289711,3643424744,831391274,878237828=notes: Overflow + Hatching 
+dimwishlist:item=302039451&perks=839105230,3142289711,3643424744,365154968,878237828=notes: Overflow + Target Lock 
 
 
 //Mirror Imago (Adept) w/ Runneth Over 
+
+dimwishlist:item=4116546788&perks=4090651448,3142289711,1820235745,31345821,120721526=notes: Subsistance + Sword Logic (LGG Most Popular)
+dimwishlist:item=4116546788&perks=4090651448,3142289711,3643424744,31345821,120721526=notes: Overflow + Sword Logic 
+dimwishlist:item=4116546788&perks=4090651448,3142289711,3643424744,831391274,120721526=notes: Overflow + Hatchling
+dimwishlist:item=4116546788&perks=4090651448,3142289711,3643424744,365154968,120721526=notes: Overflow + Target Lock 
 
 
 //Sundered Doctrine ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -445,14 +504,14 @@ dimwishlist:item=267672635&perks=1263609309,2420895100,951095735,3966416502=note
 
 //The Palindrome 
 
-dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,3218042543,1281216113=notes: Explosive Payload + Rolling Storm 
+dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,3218042543,1281216113=notes: Explosive Payload + Rolling Storm  (LGG Most Popular) 
 dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,3081867624,1281216113=notes: Explosive Payload + Master Of Arms 
 dimwishlist:item=2876244791&perks=4090651448,3142289711,3038247973,2720533289,1281216113=notes: Explosive Payload + Mag Howl  
 dimwishlist:item=2876244791&perks=4090651448,3142289711,3713215006,3218042543,1281216113=notes: Recycled Engery + Rolling Storm 
 
 //The Palindrome (Adept) 
 
-dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,3218042543,1281216113=notes: Explosive Payload + Rolling Storm 
+dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,3218042543,1281216113=notes: Explosive Payload + Rolling Storm (LGG Most Popular) 
 dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,3081867624,1281216113=notes: Explosive Payload + Master Of Arms
 dimwishlist:item=4077588826&perks=4090651448,3142289711,3038247973,2720533289,1281216113=notes: Explosive Payload + Mag Howl 
 dimwishlist:item=4077588826&perks=4090651448,3142289711,3713215006,3218042543,1281216113=notes: Recycled Engery + Rolling Storm 
@@ -460,13 +519,19 @@ dimwishlist:item=4077588826&perks=4090651448,3142289711,3713215006,3218042543,12
 
 //Lotus-Eater 
 
-dimwishlist:item=3922217119&perks=1478423395,106909392,2859149211,2048641572,1281216113=notes: Becon Rounds + Destabilizing Rounds 
-
+dimwishlist:item=3922217119&perks=1478423395,1087426260,776531651,2048641572,1281216113=notes: Repulsor Brace + Destabilizing Rounds (LGG Most Popular) 
+dimwishlist:item=3922217119&perks=1478423395,1087426260,1523832109,2048641572,1281216113=notes: Reconstruction + Destabilizing Rounds
+dimwishlist:item=3922217119&perks=1478423395,1087426260,2859149211,2048641572,1281216113=notes: Beacon Rounds + Destabilizing Rounds 
+dimwishlist:item=3922217119&perks=1478423395,1087426260,776531651,1134488199,1281216113=notes: Repulsor Brace + Withering Gaze 
 
 
 //Lotus-Eater (Adept) 
 
-dimwishlist:item=2697143634&perks=1478423395,106909392,2859149211,2048641572,1281216113=notes: Becon Rounds + Destabilizing Rounds
+dimwishlist:item=2697143634&perks=1478423395,1087426260,776531651,2048641572,1281216113=notes: Repulsor Brace + Destabilizing Rounds (LGG Most Popular)
+dimwishlist:item=2697143634&perks=1478423395,1087426260,1523832109,2048641572,1281216113=notes: Reconstruction + Destabilizing Rounds
+dimwishlist:item=2697143634&perks=1478423395,1087426260,2859149211,2048641572,1281216113=notes: Beacon Rounds + Destabilizing Rounds 
+dimwishlist:item=2697143634&perks=1478423395,1087426260,776531651,1134488199,1281216113=notes: Repulsor Brace + Withering Gaze 
+
 
 
 //Competive -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -500,7 +565,7 @@ dimwishlist:item=1201528146&perks=3250034553,3142289711,3619207468,555281244,298
 
 //Keen Thistle 
 
-dimwishlist:item=1893967086&perks=839105230,3142289711,957782887,1194056669,2988596335=notes: Snapshot + Closing Time 
+dimwishlist:item=1893967086&perks=839105230,3142289711,957782887,1194056669,2988596335=notes: Snapshot + Closing Time (LGG Most Popular) 
 dimwishlist:item=1893967086&perks=839105230,3142289711,957782887,47981717,2988596335=notes: Snapshot + Opening Shot 
 dimwishlist:item=1893967086&perks=839105230,3142289711,4293542123,3978468247,2988596335=notes: Incan + Discord 
 dimwishlist:item=1893967086&perks=839105230,3142289711,3987942396,3078487919,2988596335=notes: Envious Arsenal + Bait and Switch 
@@ -508,8 +573,10 @@ dimwishlist:item=1893967086&perks=839105230,3142289711,3987942396,3078487919,298
 
 //Keen Thistle (Adept) 
 
-dimwishlist:item=3503560035=notes: Will Update When Adept Comes Out 
-
+dimwishlist:item=3503560035&perks=839105230,3142289711,957782887,1194056669,2988596335=notes: Snapshot + Closing Time (LGG Most Popular) 
+dimwishlist:item=3503560035&perks=839105230,3142289711,957782887,47981717,2988596335=notes: Snapshot + Opening Shot
+dimwishlist:item=3503560035&perks=839105230,3142289711,4293542123,3978468247,2988596335=notes: Incan + Discord 
+dimwishlist:item=3503560035&perks=839105230,3142289711,3987942396,3078487919,2988596335=notes: Envious Arsenal + Bait and Switch 
 
 //World Drop ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
