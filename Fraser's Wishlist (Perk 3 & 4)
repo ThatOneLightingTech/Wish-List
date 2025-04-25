@@ -273,10 +273,10 @@ dimwishlist:item=861521336&perks=3978468247,2048641572,120721526=notes: Discord 
 
 //Mirror Imago 
 
-dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,31345821,878237828=notes: Overflow + Sword Logic (LGG Most Popular) 
-dimwishlist:item=3234363830&perks=839105230,3142289711,1820235745,31345821,878237828=notes: Subsistance + Sword Logic 
-dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,831391274,878237828=notes: Overflow + Hatchling 
-dimwishlist:item=3234363830&perks=839105230,3142289711,3643424744,365154968,878237828=notes: Overflow + Target Lock 
+dimwishlist:item=3234363830&perks=3643424744,31345821,878237828=notes: Overflow + Sword Logic (LGG Most Popular) 
+dimwishlist:item=3234363830&perks=1820235745,31345821,878237828=notes: Subsistance + Sword Logic 
+dimwishlist:item=3234363830&perks=3643424744,831391274,878237828=notes: Overflow + Hatchling 
+dimwishlist:item=3234363830&perks=3643424744,365154968,878237828=notes: Overflow + Target Lock 
 
 
 //Mirror Imago w/ Runneth Over 
@@ -367,7 +367,7 @@ dimwishlist:item=694500607&perks=1126264488,2360754333,2589407652=notes: Threat 
 
 //Found Verdict (Timelost) 
 
-dimwishlist:item=851296754&perks=791862061,4071163871,47981717,2589407652=notes: Threat Detector + Opening Shot (LGG Most Popular)
+dimwishlist:item=851296754&perks=4071163871,47981717,2589407652=notes: Threat Detector + Opening Shot (LGG Most Popular)
 dimwishlist:item=851296754&perks=3161816588,47981717,2589407652=notes: Slideshot + Opening Shot 
 dimwishlist:item=851296754&perks=691659142,2679249093,2589407652=notes: Pugilist + One Two Punch 
 dimwishlist:item=851296754&perks=3161816588,2173046394,2589407652=notes: Slideshot + Voltshot 
