@@ -127,7 +127,7 @@ dimwishlist:item=2856225832&perks=684456054,3966416502,120721526=notes: Eddt Cur
 
 dimwishlist:item=547165496&perks=1749209109,31345821,878237828=notes: Relentless + Sword Logic (LGG Most Popular) 
 dimwishlist:item=547165496&perks=1749209109,3708227201,878237828=notes: Relentless + Surrounded 
-dimwishlist:item=547165496&perks=436053704,52780822,2590710093,1685431615,878237828=notes: Tireless + En Garde (Hot Swap) 
+dimwishlist:item=547165496&perks=2590710093,1685431615,878237828=notes: Tireless + En Garde (Hot Swap)
 
 
 //Abyssal Edge (Adept) 
@@ -182,7 +182,7 @@ dimwishlist:item=2903168058&perks=684456054,31345821,878237828=notes: Eddy Curre
 
 dimwishlist:item=2992463569&perks=684456054,2173046394,120721526=notes: Eddy Curraent + Voltshot (LGG Most Popular) 
 dimwishlist:item=2992463569&perks=691659142,2173046394,120721526=notes: Puglilist + Voltshot 
-dimwishlist:item=2992463569&perks=839105230,3142289711,1631667848,2173046394,120721526=notes: Grave Robber + Voltshot
+dimwishlist:item=2992463569&perks=1631667848,2173046394,120721526=notes: Grave Robber + Voltshot
 dimwishlist:item=2992463569&perks=684456054,31345821,120721526=notes: Eddy Current + Sword Logic 
 
 //Divison (Adept) 
@@ -814,7 +814,7 @@ dimwishlist:item=2378785953&perks=1354429876,1546637391,2988596335=notes: 4th Ti
 //Tomorrow's Answer
 
 dimwishlist:item=3009199534&perks=3987942396,3078487919,2988596335=notes: Envious Arsenal + Bait & Switch (LGG Most Popular) 
-dimwishlist:item=3009199534&perks=1478423395,2985827016,968510818,2396489472,2988596335=notes: Envious Assassin + Chain Reaction (AD Clear Rocket)
+dimwishlist:item=3009199534&perks=968510818,2396489472,2988596335=notes: Envious Assassin + Chain Reaction (AD Clear Rocket)
 dimwishlist:item=3009199534&perks=1134488199,3078487919,2988596335=notes: Withering Gaze + Bait & Switch (Debuff Rocket) 
 
 //Tomorrow's Answer Adept
@@ -877,7 +877,7 @@ dimwishlist:item=147444292&perks=3513791699,1546637391,511914882=notes: Mulligan
 dimwishlist:item=147444292&perks=3987942396,1546637391,511914882=notes: Envious Arsenal + Vorpal Weapon 
 dimwishlist:item=147444292&perks=1556840489,4293542123,511914882=notes: Lead From Gold + Incanescent (Add Clear) 
 dimwishlist:item=147444292&perks=2866798147,47981717,511914882=notes: No Distractions + Opening Shot (PVP 1) 
-dimwishlist:item=147444292&perks=,2866798147,957782887,511914882=notes: No Distractions + Snapshot Sights (PVP 2) 
+dimwishlist:item=147444292&perks=957782887,511914882=notes: No Distractions + Snapshot Sights (PVP 2)
 
 //Ancient Gospel 
 
@@ -1046,7 +1046,7 @@ dimwishlist:item=3947966653&perks=3523296417,2109543898,1988485648=notes: Demo +
 dimwishlist:item=3947966653&perks=1380253176,1556840489,2458213969=notes: L4G + Mutli Kill Clip 
 
 //False Idols 
-dimwishlist:item=4207120603&perks=52780822,4293542123,2396489472,1988485648=notes: Incan + Chain Reaction 
+dimwishlist:item=4207120603&perks=2396489472,1988485648=notes: Incan + Chain Reaction
 
 //Crucible
 
@@ -1081,7 +1081,7 @@ dimwishlist:item=3962575203&perks=201365942,3414324643,515704826=notes: Archer's
 dimwishlist:item=627188188&perks=2988596335=notes: Moving Target + Opening Shot 
 
 //Eye Of Sol (Adept) 
-dimwishlist:item=1321626661&perks=840239774,1431678320,588594999,47981717,2988596335=notes: Moving Target + Opening Shot 
+dimwishlist:item=1321626661&perks=588594999,47981717,2988596335=notes: Moving Target + Opening Shot
 
 //Incisor 
 dimwishlist:item=1711056134&perks=1428297954,831391274,2988596335=notes: Pepmo + Hatch 
@@ -1091,7 +1091,7 @@ dimwishlist:item=1711056134&perks=1820235745,557221067,2988596335=notes: subsis 
 //Incisor (Adept) 
 dimwishlist:item=2839600459&perks=1428297954,831391274,2988596335=notes: Pepmo + Hatch 
 dimwishlist:item=2839600459&perks=1428297954,1015611457,2988596335=notes: Pepmo + Kill Clip 
-dimwishlist:item=2839600459&perks=1840239774,2969185026,1820235745,557221067,2988596335=notes: Subsis + Killing Tally 
+dimwishlist:item=2839600459&perks=1820235745,557221067,2988596335=notes: Subsis + Killing Tally
 
 //Aisha's Care 
 dimwishlist:item=3969379530&perks=3619207468,460017080,2988596335=notes: Keep Away + Headseeker 
@@ -1112,22 +1112,22 @@ dimwishlist:item=2022294213&perks=1359896290,1890422124,2988596335=notes: DRS + 
 dimwishlist:item=2022294213&perks=776531651,2048641572,4091460919=notes: Replusor Brace + Destab
 
 //Shayura's Wrath (Adept) 
-dimwishlist:item=501345268&perks=3250034553,1885400500,2387244414,1015611457,2509860981=notes: Zen Moment + Kill Clip + Nadir Focus
-dimwishlist:item=501345268&perks=839105230,1885400500,1359896290,1015611457,2988596335=notes: DSR + Kill Clip (LGG Most Popular) 
-dimwishlist:item=501345268&perks=839105230,1885400500,1359896290,1890422124,2988596335=notes: DSR + TTT 
-dimwishlist:item=501345268&perks=1482024992,3230963543,776531651,2048641572,2988596335=notes: Repulsor Brace + Destab 
+dimwishlist:item=501345268&perks=2387244414,1015611457,2509860981=notes: Zen Moment + Kill Clip + Nadir Focus
+dimwishlist:item=501345268&perks=1359896290,1015611457,2988596335=notes: DSR + Kill Clip (LGG Most Popular)
+dimwishlist:item=501345268&perks=1359896290,1890422124,2988596335=notes: DSR + TTT
+dimwishlist:item=501345268&perks=776531651,2048641572,2988596335=notes: Repulsor Brace + Destab
  
 //Iron Banner - 
 
 //Crimil's Dagger 
-dimwishlist:item=198854575&perks=4090651448,3142289711,1168162263,1015611457,3989629871=notes: Outlaw + Kill Clip (LGG Most Popular) '
-dimwishlist:item=198854575&perks=839105230,3142289711,3828510309,555281244,3989629871=notes: Enlightened + Precision Instrument 
-dimwishlist:item=198854575&perks=839105230,3142289711,2039302152,3038247973,3989629871=notes: Slideways + Explosive Payload 
+dimwishlist:item=198854575&perks=1168162263,1015611457,3989629871=notes: Outlaw + Kill Clip (LGG Most Popular) '
+dimwishlist:item=198854575&perks=3828510309,555281244,3989629871=notes: Enlightened + Precision Instrument
+dimwishlist:item=198854575&perks=2039302152,3038247973,3989629871=notes: Slideways + Explosive Payload
 
 //The Guiding Slight
-dimwishlist:item=417100299&perks=839105230,3142289711,3523296417,831391274,3989629871=notes: Demo + Hatching 
-dimwishlist:item=417100299&perks=839105230,3142289711,3523296417,11612903,3989629871=notes: Demo + Junkie 
-dimwishlist:item=417100299&perks=839105230,3142289711,923806249,831391274,3989629871=notes: Slice + Hatching (Strand Syncro)
+dimwishlist:item=417100299&perks=3523296417,831391274,3989629871=notes: Demo + Hatching
+dimwishlist:item=417100299&perks=3523296417,11612903,3989629871=notes: Demo + Junkie
+dimwishlist:item=417100299&perks=923806249,831391274,3989629871=notes: Slice + Hatching (Strand Syncro)
 
 //Riiswalker
 dimwishlist:item=557165046&perks=3161816588,591790007,3989629871=notes: Slideshot + Iron Reach 
@@ -1138,18 +1138,18 @@ dimwishlist:item=557165046&perks=3161816588,1546637391,3989629871=notes: Slidesh
 dimwishlist:item=1505862304&perks=460017080,1015611457,3989629871=notes: Headseeker + Kill Clip (LGG Most Popular) 
 dimwishlist:item=1505862304&perks=460017080,3425386926,3989629871=notes: Headseeker + Ramapage 
 dimwishlist:item=1505862304&perks=460017080,2387244414,3989629871=notes: Headseeker + Zen Moment 
-dimwishlist:item=1505862304&perks=839105230,3230963543,776531651,2048641572,3989629871=notes: Repulsor Brace + Destabe 
+dimwishlist:item=1505862304&perks=776531651,2048641572,3989629871=notes: Repulsor Brace + Destabe
 
 //Leathal Abundance 
 dimwishlist:item=3428407746=notes: If you have a roll from season 23, keep that one, as this verion lost most of the good range mag perks. But Mainly a pvp focused auto, if you like high impact frames  
-dimwishlist:item=3428407746&perks=3661387068,1087426260,923806249,95528736,3989629871=notes: Slice + Onslaught 
-dimwishlist:item=3428407746&perks=3661387068,1087426260,3511092054,95528736,3989629871=notes: Ecap + Onslaught 
-dimwishlist:item=3428407746&perks=839105230,3142289711,3619207468,1890422124,3989629871=notes: Keep Away + TTT
+dimwishlist:item=3428407746&perks=923806249,95528736,3989629871=notes: Slice + Onslaught
+dimwishlist:item=3428407746&perks=3511092054,95528736,3989629871=notes: Ecap + Onslaught
+dimwishlist:item=3428407746&perks=3619207468,1890422124,3989629871=notes: Keep Away + TTT
 
 //Point Of The Stag
-dimwishlist:item=3465233192&perks=3768438372,2154191829,880644845,2848615171,3989629871=notes: Strategist + Dragonfly 
-dimwishlist:item=3465233192&perks=3768438372,2154191829,201365942,1546637391,3989629871=notes: Archer's Tempo + Vorpal 
-dimwishlist:item=3465233192&perks=3768438372,2154191829,201365942,555281244,3989629871=notes: Archer's Tempo + Precision Instrument 
+dimwishlist:item=3465233192&perks=880644845,2848615171,3989629871=notes: Strategist + Dragonfly
+dimwishlist:item=3465233192&perks=201365942,1546637391,3989629871=notes: Archer's Tempo + Vorpal
+dimwishlist:item=3465233192&perks=201365942,555281244,3989629871=notes: Archer's Tempo + Precision Instrument
 
 //Nightfall
 
@@ -1166,10 +1166,10 @@ dimwishlist:item=3610521673&perks=1556840489,4293542123,1281216113=notes: LFG + 
 dimwishlist:item=3610521673&perks=3978468247,3038247973,1281216113=notes: Discord + Explosive Payload (Science Roll) 
 
 //Undercurrent
-dimwishlist:item=3686538757&perks=1844523823,3032599245,2869569095,2173046394,1281216113=notes: Field Pep + Voltshot 
-dimwishlist:item=3686538757&perks=1478423395,3032599245,3523296417,2173046394,1281216113=notes: Demo + Voltshot 
-dimwishlist:item=3686538757&perks=1478423395,3032599245,2010801679,3078487919,1281216113=notes: Ambitious + B&S 
-dimwishlist:item=3686538757&perks=1478423395,3032599245,1556840489,4049631843,1281216113=notes: LFG + OFA 
+dimwishlist:item=3686538757&perks=2869569095,2173046394,1281216113=notes: Field Pep + Voltshot
+dimwishlist:item=3686538757&perks=3523296417,2173046394,1281216113=notes: Demo + Voltshot
+dimwishlist:item=3686538757&perks=2010801679,3078487919,1281216113=notes: Ambitious + B&S
+dimwishlist:item=3686538757&perks=1556840489,4049631843,1281216113=notes: LFG + OFA
 
 //Undercurrent (Adpet)
 dimwishlist:item=817909300&perks=2869569095,2173046394,1281216113=notes: Field Prep + Voltshot 
@@ -1354,7 +1354,7 @@ dimwishlist:item=172461430&perks=47981717,957782887,1878756191=notes: OS + SNS
 //Nullify 
 dimwishlist:item=859869931&perks=3824105627,4293542123,1878756191=notes: Firefly + Incan 
 dimwishlist:item=859869931&perks=3017780555,4293542123,1878756191=notes: Heal Clip + Incan 
-dimwishlist:item=859869931&perks=,3523296417,4293542123,1878756191=notes: Demo + Incan 
+dimwishlist:item=859869931&perks=4293542123,1878756191=notes: Demo + Incan
 dimwishlist:item=859869931&perks=247725512,2109543898,1878756191=notes: Rapid Hit + Despreate 
 dimwishlist:item=859869931&perks=247725512,3640170453,1878756191=notes: Rapid Hit = Chaos Reshaped 
 dimwishlist:item=859869931&perks=3523296417,11612903,1878756191=notes: Demo + Junkie 
@@ -1389,7 +1389,7 @@ dimwishlist:item=1770490683&perks=201365942,3414324643,1878756191=notes: Archer'
 dimwishlist:item=1039915310&perks=201365942,2173046394,1878756191=notes: Archers Tempo + Voltshot 
 dimwishlist:item=1039915310&perks=2848615171,2173046394,1878756191=notes: Dragonfly + Voltshot 
 dimwishlist:item=1039915310&perks=3700496672,2173046394,1878756191=notes: S2L + Voltshot 
-dimwishlist:item=1039915310&perks=3768438372,2154191829,201365942,3414324643,1878756191=notes: Archer's Tempo + Archer's Gambit 
+dimwishlist:item=1039915310&perks=201365942,3414324643,1878756191=notes: Archer's Tempo + Archer's Gambit
 
 //Imminence 
 dimwishlist:item=1258168956&perks=3523296417,831391274,1878756191=notes: Demo + Hatching (Strand Spam) 
@@ -1427,8 +1427,8 @@ dimwishlist:item=447296102&perks=1583705720,776531651,43555494=notes: S4A + Repl
 //Ded Gramarye IV 
 dimwishlist:item=499245245&perks=3978468247,2396489472,1050127423=notes: Discord + Chain Reaction 
 dimwishlist:item=499245245&perks=3978468247,2173046394,1050127423=notes: Discord + Voltshot 
-dimwishlist:item=499245245&perks=1332244541,791862061,3978468247,3708227201,1050127423=notes: Discord + Surrounded 
-dimwishlist:item=499245245&perks=1332244541,791862061,4071163871,2173046394,1050127423=notes: Threat Detector + Voltshot 
+dimwishlist:item=499245245&perks=3978468247,3708227201,1050127423=notes: Discord + Surrounded
+dimwishlist:item=499245245&perks=4071163871,2173046394,1050127423=notes: Threat Detector + Voltshot
 
 //Maahes's HC4 
 dimwishlist:item=1246793994&perks=776531651,2610012052,2839173408=notes: Replusor Brace + Golden Tricorn 
@@ -1458,131 +1458,131 @@ dimwishlist:item=1050806815&perks=1359896290,3081867624,2489430594=notes:PVP God
 dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594=notes: Just For Fun Roll 
 
 //The Recluse (BRAVE Edition) 
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,4104185692,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,2109543898,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,1890422124,2489430594=notes: PVP God Roll 1 
-dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,3081867624,2489430594=notes: PVP God Roll 2 
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2048641572,2489430594=notes: Just For Fun Roll 
+dimwishlist:item=3098328572&perks=776531651,4104185692,2489430594=notes: PVE God Roll 1
+dimwishlist:item=3098328572&perks=4071163871,2109543898,2489430594=notes: PVE God Roll 2
+dimwishlist:item=3098328572&perks=1359896290,1890422124,2489430594=notes: PVP God Roll 1
+dimwishlist:item=3098328572&perks=1359896290,3081867624,2489430594=notes: PVP God Roll 2
+dimwishlist:item=3098328572&perks=776531651,2048641572,2489430594=notes: Just For Fun Roll
 
 //Elsie's Rifle 
-dimwishlist:item=2372514509&perks=1482024992,1087426260,776531651,2048641572,2489430594=notes: PVE God Roll 1
-dimwishlist:item=2372514509&perks=1482024992,1087426260,3418782618,4104185692,2489430594=notes: PVE God Roll 2
-dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,3047969693,2489430594=notes: PVP God Roll 1 
-dimwishlist:item=2372514509&perks=3250034553,1885400500,3619207468,1015611457,2489430594=notes: PVP God Roll 2 
-dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,1015611457,2489430594=notes: PVP God Roll 3 
-dimwishlist:item=2372514509&perks=3250034553,1885400500,2387244414,460017080,2489430594=notes: PVP God Roll 4 
-dimwishlist:item=2372514509&perks=3250034553,1885400500,3619207468,460017080,2489430594=notes: PVP God ROll 5 
+dimwishlist:item=2372514509&perks=776531651,2048641572,2489430594=notes: PVE God Roll 1
+dimwishlist:item=2372514509&perks=3418782618,4104185692,2489430594=notes: PVE God Roll 2
+dimwishlist:item=2372514509&perks=2387244414,3047969693,2489430594=notes: PVP God Roll 1
+dimwishlist:item=2372514509&perks=3619207468,1015611457,2489430594=notes: PVP God Roll 2
+dimwishlist:item=2372514509&perks=2387244414,1015611457,2489430594=notes: PVP God Roll 3
+dimwishlist:item=2372514509&perks=2387244414,460017080,2489430594=notes: PVP God Roll 4
+dimwishlist:item=2372514509&perks=3619207468,460017080,2489430594=notes: PVP God ROll 5
 
 //Elsie's Rifle (BRAVE edition) 
-dimwishlist:item=3851176026&perks=1482024992,1087426260,776531651,2048641572,2489430594=notes: PVE God Roll 1
-dimwishlist:item=3851176026&perks=1482024992,1087426260,3418782618,4104185692,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=3851176026&perks=3250034553,1885400500,2387244414,3047969693,2489430594=notes: PVP God Roll 1 
-dimwishlist:item=3851176026&perks=3250034553,1885400500,3619207468,1015611457,2489430594=notes: PVP God Roll 2 
-dimwishlist:item=3851176026&perks=3250034553,1885400500,2387244414,1015611457,2489430594=notes: PVP God ROll 3 
-dimwishlist:item=3851176026&perks=3250034553,1885400500,2387244414,460017080,2489430594=notes: PVP God Roll 4
-dimwishlist:item=3851176026&perks=3250034553,1885400500,3619207468,460017080,2489430594=notes: PVP God ROll 5 
+dimwishlist:item=3851176026&perks=776531651,2048641572,2489430594=notes: PVE God Roll 1
+dimwishlist:item=3851176026&perks=3418782618,4104185692,2489430594=notes: PVE God Roll 2
+dimwishlist:item=3851176026&perks=2387244414,3047969693,2489430594=notes: PVP God Roll 1
+dimwishlist:item=3851176026&perks=3619207468,1015611457,2489430594=notes: PVP God Roll 2
+dimwishlist:item=3851176026&perks=2387244414,1015611457,2489430594=notes: PVP God ROll 3
+dimwishlist:item=3851176026&perks=2387244414,460017080,2489430594=notes: PVP God Roll 4
+dimwishlist:item=3851176026&perks=3619207468,460017080,2489430594=notes: PVP God ROll 5
 
 //Hung Jury SR4 
-dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=1453235079&perks=1840239774,106909392,3828510309,555281244,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=1453235079&perks=4090651448,3230963543,247725512,3751912585,2489430594=notes:PVP God Roll 1 (Don't Recommend Unless Scouts get a buff) 
-dimwishlist:item=1453235079&perks=4090651448,3230963543,2866798147,2551157718,2489430594=notes: PVP God Roll 2 (Don't Recommend Unless Scouts get a buff) 
+dimwishlist:item=1453235079&perks=3891536761,3824105627,2489430594=notes: PVE God Roll 1
+dimwishlist:item=1453235079&perks=3828510309,555281244,2489430594=notes: PVE God Roll 2
+dimwishlist:item=1453235079&perks=247725512,3751912585,2489430594=notes: PVP God Roll 1 (Don't Recommend Unless Scouts get a buff)
+dimwishlist:item=1453235079&perks=2866798147,2551157718,2489430594=notes: PVP God Roll 2 (Don't Recommend Unless Scouts get a buff)
 
 //Hung Jury SR4 (BRAVE edition) 
-dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3824105627,2489430594=notes:PVE God Roll 1 
-dimwishlist:item=205225492&perks=1840239774,106909392,3828510309,555281244,2489430594=notes:PVE God Roll 2 
-dimwishlist:item=205225492&perks=4090651448,3230963543,247725512,3751912585,2489430594=notes: PVP God Roll 1 (Don't Recommend Unless Scouts get a buff)
+dimwishlist:item=205225492&perks=3891536761,3824105627,2489430594=notes: PVE God Roll 1
+dimwishlist:item=205225492&perks=3828510309,555281244,2489430594=notes: PVE God Roll 2
+dimwishlist:item=205225492&perks=247725512,3751912585,2489430594=notes: PVP God Roll 1 (Don't Recommend Unless Scouts get a buff)
 dimwishlist:item=205225492&perks=4090651448,3230963543,2866798147,2551157718,2489430594=note: PVP God Roll 2 (Don't Recommend Unless Scouts get a buff) 
 
 //Succession
-dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417,2489430594=notes: PVE God Roll 3 
-dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887,2489430594=notes: PVP God Roll 
+dimwishlist:item=3612338554&perks=1523832109,1771339417,2489430594=notes: PVE God Roll 1
+dimwishlist:item=3612338554&perks=1523832109,1546637391,2489430594=notes: PVE God Roll 2
+dimwishlist:item=3612338554&perks=1523832109,1771339417,2489430594=notes: PVE God Roll 3
+dimwishlist:item=3612338554&perks=588594999,957782887,2489430594=notes: PVP God Roll
 
 //Succession (BRAVE editon) 
-dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,469285294,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1546637391,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417,2489430594=notes: PVE God Roll 3 
-dimwishlist:item=570866107&perks=1840239774,3142289711,588594999,957782887,2489430594=notes: PVP God Roll 
+dimwishlist:item=570866107&perks=1523832109,469285294,2489430594=notes: PVE God Roll 1
+dimwishlist:item=570866107&perks=1523832109,1546637391,2489430594=notes: PVE God Roll 2
+dimwishlist:item=570866107&perks=1523832109,1771339417,2489430594=notes: PVE God Roll 3
+dimwishlist:item=570866107&perks=588594999,957782887,2489430594=notes: PVP God Roll
 
 //Falling Guillotine
-dimwishlist:item=1815105249&perks=3666208348,52780822,4104185692,3708227201,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=1815105249&perks=3666208348,52780822,1546637391,3078487919,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=1815105249&perks=3666208348,52780822,1749209109,31345821,2489430594=notes: PVE God Roll 3 
-dimwishlist:item=1815105249&perks=3666208348,52780822,1749209109,2077819806,2489430594=notes: Eager Edge Roll 
-dimwishlist:item=1815105249&perks=436053704,52780822,1546637391,2077819806,2489430594=notes: PVP Roll 
+dimwishlist:item=1815105249&perks=4104185692,3708227201,2489430594=notes: PVE God Roll 1
+dimwishlist:item=1815105249&perks=1546637391,3078487919,2489430594=notes: PVE God Roll 2
+dimwishlist:item=1815105249&perks=1749209109,31345821,2489430594=notes: PVE God Roll 3
+dimwishlist:item=1815105249&perks=1749209109,2077819806,2489430594=notes: Eager Edge Roll
+dimwishlist:item=1815105249&perks=1546637391,2077819806,2489430594=notes: PVP Roll
 
 //Falling Guillotine (BRAVE edition) 
-dimwishlist:item=243425374&perks=3666208348,52780822,4104185692,3708227201,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=243425374&perks=2827049491,52780822,1546637391,3078487919,2489430594=notes: PVE God ROll 2 
-dimwishlist:item=243425374&perks=436053704,52780822,1749209109,31345821,2489430594=notes: PVE God Roll 3 
-dimwishlist:item=243425374&perks=436053704,52780822,1749209109,2077819806,2489430594=notes: Eager Edge Roll 
-dimwishlist:item=243425374&perks=436053704,52780822,1546637391,2077819806,2489430594=notes: PVP Roll 
+dimwishlist:item=243425374&perks=4104185692,3708227201,2489430594=notes: PVE God Roll 1
+dimwishlist:item=243425374&perks=1546637391,3078487919,2489430594=notes: PVE God ROll 2
+dimwishlist:item=243425374&perks=1749209109,31345821,2489430594=notes: PVE God Roll 3
+dimwishlist:item=243425374&perks=1749209109,2077819806,2489430594=notes: Eager Edge Roll
+dimwishlist:item=243425374&perks=1546637391,2077819806,2489430594=notes: PVP Roll
 
 //Edge Transit
-dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919,2489430594=notes: PVE God Roll 1
-dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3993379141,2489430594=notes: PVE God Roll 2
-dimwishlist:item=568611923&perks=1478423395,2822142346,951095735,3194351027,2489430594=notes: PVP God ROll 
+dimwishlist:item=568611923&perks=968510818,3078487919,2489430594=notes: PVE God Roll 1
+dimwishlist:item=568611923&perks=968510818,3993379141,2489430594=notes: PVE God Roll 2
+dimwishlist:item=568611923&perks=951095735,3194351027,2489430594=notes: PVP God ROll
 
 //Edge Transit (BRAVE editon) 
-dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919,2489430594=notes: PVE God Roll 1 
-dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3993379141,2489430594=notes: PVE God Roll 2 
-dimwishlist:item=2228325504&perks=1478423395,2822142346,951095735,3194351027,2489430594=notes: PVP Roll 
+dimwishlist:item=2228325504&perks=968510818,3078487919,2489430594=notes: PVE God Roll 1
+dimwishlist:item=2228325504&perks=968510818,3993379141,2489430594=notes: PVE God Roll 2
+dimwishlist:item=2228325504&perks=951095735,3194351027,2489430594=notes: PVP Roll
 
 //Luna's Howl 
-dimwishlist:item=2763843899&perks=3250034553,1087426260,3017780555,4293542123,2489430594=notes: PVE Incandescent/Heal Clip Roll 
-dimwishlist:item=2763843899&perks=3250034553,1087426260,3828510309,2109543898,2489430594=notes: PVE Desperate Measures Roll 
-dimwishlist:item=2763843899&perks=3250034553,1087426260,3828510309,2720533289,2489430594=notes: PVE Magnificent Howl Roll 
-dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457,2489430594=notes: PVP 1
+dimwishlist:item=2763843899&perks=3017780555,4293542123,2489430594=notes: PVE Incandescent/Heal Clip Roll
+dimwishlist:item=2763843899&perks=3828510309,2109543898,2489430594=notes: PVE Desperate Measures Roll
+dimwishlist:item=2763843899&perks=3828510309,2720533289,2489430594=notes: PVE Magnificent Howl Roll
+dimwishlist:item=2763843899&perks=699525795,1015611457,2489430594=notes: PVP 1
 dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244,2489430594=notes PVP 2 
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3828510309,2720533289,2489430594=notes: PVP 3 
+dimwishlist:item=2763843899&perks=3828510309,2720533289,2489430594=notes: PVP 3
 
 //Luna's Howl (BRAVE edition) 
 dimwishlist:item=3757612024&perks=3250034553,1087426260,3017780555,4293542123,2489430594=notes PVE Incan/Heal Clip Roll 
-dimwishlist:item=3757612024&perks=3250034553,1087426260,3828510309,2109543898,2489430594=notes: PVE Desperate Measures Roll 
-dimwishlist:item=3757612024&perks=3250034553,1087426260,3828510309,2720533289,2489430594=notes: PVE Magnificent Howl Roll 
-dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,47981717,2489430594=notes: PVP 1 
-dimwishlist:item=3757612024&perks=3250034553,1885400500,699525795,555281244,2489430594=notes: PVP 2 
-dimwishlist:item=3757612024&perks=3250034553,1885400500,3828510309,2720533289,2489430594=notes: PVP 3 
+dimwishlist:item=3757612024&perks=3828510309,2109543898,2489430594=notes: PVE Desperate Measures Roll
+dimwishlist:item=3757612024&perks=3828510309,2720533289,2489430594=notes: PVE Magnificent Howl Roll
+dimwishlist:item=3757612024&perks=699525795,47981717,2489430594=notes: PVP 1
+dimwishlist:item=3757612024&perks=699525795,555281244,2489430594=notes: PVP 2
+dimwishlist:item=3757612024&perks=3828510309,2720533289,2489430594=notes: PVP 3
 
 // Forbearance 
-dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472,2489430594=notes: PVE Ambitious + Chain 
-dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2610012052,2489430594=notes: PVE Unrelenting + Golden Tricorn 
-dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,3078487919,2489430594=notes: PVE Ambitious + Bait And Switch
-dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2109543898,2489430594=notes: PVE Demo + Desperate Measures 
-dimwishlist:item=568611921&perks=3798852852,2822142346,509074078,2610012052,2489430594=notes: PVP 
+dimwishlist:item=568611921&perks=2010801679,2396489472,2489430594=notes: PVE Ambitious + Chain
+dimwishlist:item=568611921&perks=3108830275,2610012052,2489430594=notes: PVE Unrelenting + Golden Tricorn
+dimwishlist:item=568611921&perks=2010801679,3078487919,2489430594=notes: PVE Ambitious + Bait And Switch
+dimwishlist:item=568611921&perks=3523296417,2109543898,2489430594=notes: PVE Demo + Desperate Measures
+dimwishlist:item=568611921&perks=509074078,2610012052,2489430594=notes: PVP
 
 //Forbearance (BRAVE edition) 
-dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,2396489472,2489430594=notes: PVE Ambitious + Chain
-dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,2610012052,2489430594=notes: PVE Demo + Golden Tricorn 
-dimwishlist:item=2480074702&perks=3525010810,2822142346,3108830275,2610012052,2489430594=notes: PVE Unrelenting + Golden Tricon 
-dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,3078487919,2489430594=notes: PVE Ambitious + Bait And Switch
-dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,2109543898,2489430594=notes: PVE Demo + Desperate Measures 
+dimwishlist:item=2480074702&perks=2010801679,2396489472,2489430594=notes: PVE Ambitious + Chain
+dimwishlist:item=2480074702&perks=3523296417,2610012052,2489430594=notes: PVE Demo + Golden Tricorn
+dimwishlist:item=2480074702&perks=3108830275,2610012052,2489430594=notes: PVE Unrelenting + Golden Tricon
+dimwishlist:item=2480074702&perks=2010801679,3078487919,2489430594=notes: PVE Ambitious + Bait And Switch
+dimwishlist:item=2480074702&perks=2010801679,2109543898,2489430594=notes: PVE Demo + Desperate Measures
 
 //Midnight Coup
-dimwishlist:item=2763843898&perks=4090651448,1431678320,3824105627,4104185692,2489430594=notes: PVE Firefly + Frenzy 
-dimwishlist:item=2763843898&perks=4090651448,1431678320,3828510309,3891536761,2489430594=notes: PVE Enlightened + Kinetic Tremors 
-dimwishlist:item=2763843898&perks=4090651448,1431678320,3824105627,3891536761,2489430594=notes: PVE Firefly + Kinetic Tremors 
-dimwishlist:item=2763843898&perks=839105230,3142289711,588594999,2387244414,2489430594=notes: PVP Moving Target + Zen Moment 
-dimwishlist:item=2763843898&perks=839105230,3142289711,588594999,47981717,2489430594=notes: PVP Moving Target + Opening Shot 
+dimwishlist:item=2763843898&perks=3824105627,4104185692,2489430594=notes: PVE Firefly + Frenzy
+dimwishlist:item=2763843898&perks=3828510309,3891536761,2489430594=notes: PVE Enlightened + Kinetic Tremors
+dimwishlist:item=2763843898&perks=3824105627,3891536761,2489430594=notes: PVE Firefly + Kinetic Tremors
+dimwishlist:item=2763843898&perks=588594999,2387244414,2489430594=notes: PVP Moving Target + Zen Moment
+dimwishlist:item=2763843898&perks=588594999,47981717,2489430594=notes: PVP Moving Target + Opening Shot
 
 //Midnight Coup (BRAVE edition) 
-dimwishlist:item=2499720827&perks=4090651448,1431678320,3824105627,4104185692,2489430594=notes: PVE Firefly Frenzy 
+dimwishlist:item=2499720827&perks=3824105627,4104185692,2489430594=notes: PVE Firefly Frenzy
 dimwishlist:item=2499720827&perks=4090651448,1431678320,3828510309,3891536761,2489430594=notes PVE Enlightened + Kinetic Tremors 
-dimwishlist:item=2499720827&perks=4090651448,1431678320,3824105627,3891536761,2489430594=notes: PVE Firefly + Kinetic Tremors 
-dimwishlist:item=2499720827&perks=839105230,3142289711,588594999,2387244414,2489430594=notes: PVP Moving Target + Zen Moment 
+dimwishlist:item=2499720827&perks=3824105627,3891536761,2489430594=notes: PVE Firefly + Kinetic Tremors
+dimwishlist:item=2499720827&perks=588594999,2387244414,2489430594=notes: PVP Moving Target + Zen Moment
 dimwishlist:item=2499720827&perks=839105230,3142289711,588594999,47981717,2489430594=notes PVP Moving Target + Opening Shot 
 
 //Blast Furnace 
-dimwishlist:item=2372514508&perks=3661387068,106909392,3891536761,4104185692=notes: PVE Kinetic Tremors + Frenzy 
-dimwishlist:item=2372514508&perks=3661387068,106909392,3891536761,2109543898=notes: PVE Kinetic Tremors + Desperate Measures 
-dimwishlist:item=2372514508&perks=3661387068,106909392,3619207468,3824105627=notes: Keep Away + Firefly 
-dimwishlist:item=2372514508&perks=3661387068,106909392,3891536761,3824105627=notes: PVE Kinetic Tremors + Firefly 
-dimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,1015611457,2489430594=notes: Zen Moment + Kill Clip 
-dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,1015611457,2489430594=notes: PVP Headseeker + Kill Clip 
+dimwishlist:item=2372514508&perks=3891536761,4104185692=notes: PVE Kinetic Tremors + Frenzy
+dimwishlist:item=2372514508&perks=3891536761,2109543898=notes: PVE Kinetic Tremors + Desperate Measures
+dimwishlist:item=2372514508&perks=3619207468,3824105627=notes: Keep Away + Firefly
+dimwishlist:item=2372514508&perks=3891536761,3824105627=notes: PVE Kinetic Tremors + Firefly
+dimwishlist:item=2372514508&perks=2387244414,1015611457,2489430594=notes: Zen Moment + Kill Clip
+dimwishlist:item=2372514508&perks=460017080,1015611457,2489430594=notes: PVP Headseeker + Kill Clip
 ddimwishlist:item=2372514508&perks=839105230,3142289711,2387244414,247725512,2489430594=notes: PVP Zen Moment + Rapid Hit 
-dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512,2489430594=notes: PVP Headseeker + Rapid Hit 
+dimwishlist:item=2372514508&perks=460017080,247725512,2489430594=notes: PVP Headseeker + Rapid Hit
 
 //Prophecy Refresh
 
@@ -1616,27 +1616,27 @@ dimwishlist:item=435821040&perks=839105230,1885400500,3017780555,1015611457,4129
 //Nightfall Addions - (Updated 06/17/2024)
 
 //The Slammer 
-dimwishlist:item=2889501828&perks=436053704,52780822,2077819806,3650930298,744217850=notes: Eager Edge + Cold Steel 
-dimwishlist:item=2889501828&perks=436053704,52780822,2077819806,3078487919,744217850=notes: Eager Edge + B&S 
-dimwishlist:item=2889501828&perks=436053704,52780822,2396489472,3650930298,744217850=notes: Chain Reaction + Cold Steel 
+dimwishlist:item=2889501828&perks=2077819806,3650930298,744217850=notes: Eager Edge + Cold Steel
+dimwishlist:item=2889501828&perks=2077819806,3078487919,744217850=notes: Eager Edge + B&S
+dimwishlist:item=2889501828&perks=2396489472,3650930298,744217850=notes: Chain Reaction + Cold Steel
 
 //The Slammer (Adept)
-dimwishlist:item=1354727549&perks=436053704,52780822,2077819806,3650930298,744217850=notes: Eager Edge + Cold Steel 
-dimwishlist:item=1354727549&perks=436053704,52780822,2077819806,3078487919,744217850=notes: Eager Edge + B&S 
-dimwishlist:item=1354727549&perks=436053704,52780822,2396489472,3650930298,744217850=notes: Chain Reaction + Cold Steel 
+dimwishlist:item=1354727549&perks=2077819806,3650930298,744217850=notes: Eager Edge + Cold Steel
+dimwishlist:item=1354727549&perks=2077819806,3078487919,744217850=notes: Eager Edge + B&S
+dimwishlist:item=1354727549&perks=2396489472,3650930298,744217850=notes: Chain Reaction + Cold Steel
 
 //Wild Style (Added In Season 23 - Perk Refresh during Into The Light) 
-dimwishlist:item=1332123064&perks=1478423395,3032599245,968510818,4293542123,744217850=notes: Envious + Incan 
-dimwishlist:item=1332123064&perks=1478423395,3032599245,1523832109,1546637391,744217850=notes: Recon + Vorpal 
-dimwishlist:item=1332123064&perks=1478423395,3032599245,1523832109,3078487919,744217850=notes: Recon + B&S
-dimwishlist:item=1332123064&perks=1478423395,3032599245,1583705720,4049631843,744217850=notes: STA + OFA 
+dimwishlist:item=1332123064&perks=968510818,4293542123,744217850=notes: Envious + Incan
+dimwishlist:item=1332123064&perks=1523832109,1546637391,744217850=notes: Recon + Vorpal
+dimwishlist:item=1332123064&perks=1523832109,3078487919,744217850=notes: Recon + B&S
+dimwishlist:item=1332123064&perks=1583705720,4049631843,744217850=notes: STA + OFA
 
 
 //Wild Style (Adept) 
-dimwishlist:item=959037361&perks=1478423395,3032599245,968510818,4293542123,744217850=notes: Envious + Incan
-dimwishlist:item=959037361&perks=1478423395,3032599245,1523832109,1546637391,744217850=notes: Recon + Vorpal
-dimwishlist:item=959037361&perks=1478423395,3032599245,1523832109,3078487919,744217850=notes: Recon + B&S 
-dimwishlist:item=959037361&perks=1478423395,3032599245,1583705720,4049631843,744217850=notes: SFA + OFA 
+dimwishlist:item=959037361&perks=968510818,4293542123,744217850=notes: Envious + Incan
+dimwishlist:item=959037361&perks=1523832109,1546637391,744217850=notes: Recon + Vorpal
+dimwishlist:item=959037361&perks=1523832109,3078487919,744217850=notes: Recon + B&S
+dimwishlist:item=959037361&perks=1583705720,4049631843,744217850=notes: SFA + OFA
 
 //Iron Banner 
 
@@ -2304,4 +2304,6 @@ dimwishlist:item=2972949637&perks=1478423395,3301904089,1523832109,831391274,318
 //Briar's Contempt
 dimwishlist:item=1491665733&perks=839105230,2680121939,1523832109,2896038713,3186078099
 dimwishlist:item=1491665733&perks=839105230,2680121939,3418782618,2896038713,3186078099
+
+
 
